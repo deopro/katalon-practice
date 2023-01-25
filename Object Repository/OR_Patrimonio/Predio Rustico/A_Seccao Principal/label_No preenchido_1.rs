@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_No preenchido_1</name>
+   <tag></tag>
+   <elementGuidId>de5f1b8d-b46a-4243-be3a-ce6f3d180e71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='formRegisterOwnerModal:patrimonyOwnerType_label']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c26a011e-6d18-44b9-a860-68db257a23aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>formRegisterOwnerModal:patrimonyOwnerType_label</value>
+      <webElementGuid>65713730-ebd2-464c-bcf1-b485b4304bec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
+      <webElementGuid>0c292fee-aceb-4de3-9864-bd6c2e99df46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Não preenchido</value>
+      <webElementGuid>6afd8466-39c7-46bc-9297-7a9a28eb4137</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formRegisterOwnerModal:patrimonyOwnerType_label&quot;)</value>
+      <webElementGuid>26965462-22a5-44c4-ac75-6f62f3057ffd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='formRegisterOwnerModal:patrimonyOwnerType_label']</value>
+      <webElementGuid>94c87247-5ed6-4445-b4f5-0a894232fe92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='formRegisterOwnerModal:patrimonyOwnerType']/label</value>
+      <webElementGuid>b67b070d-f08d-4b79-b416-a4d14fa3558e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Direito*'])[1]/following::label[1]</value>
+      <webElementGuid>15d834ee-3fc7-4f82-a968-cad0e72a7694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responsável'])[2]/following::label[2]</value>
+      <webElementGuid>42e05828-bcfe-44a8-af7b-11ae60a69e3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Não preenchido'])[10]/preceding::label[1]</value>
+      <webElementGuid>4ea52588-d7d6-41a5-833d-ca93734bb447</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proprietário'])[4]/preceding::label[1]</value>
+      <webElementGuid>b3ffeff9-b1e6-4310-9651-2c1f8792e5e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div[4]/div/div/label</value>
+      <webElementGuid>c8d06745-1b9b-49b7-871c-4578425dba6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'formRegisterOwnerModal:patrimonyOwnerType_label' and (text() = 'Não preenchido' or . = 'Não preenchido')]</value>
+      <webElementGuid>fa5c14f3-0948-41e2-94ba-2eb37b88de3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -9,6 +9,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/OR_Patrimonio/Predio Rustico/A_Seccao Principal/div_GERAL",
+      "brokenLocator": "//div[@id\u003d\u0027frmPatrimony:tvSuporte:accPrincipal\u0027]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/div/div/div/div/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230125_113939"
     }
   ]
 }

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_REGIME JURDICO</name>
+   <tag></tag>
+   <elementGuidId>59229ce8-12fd-483f-940f-d567da8a9e03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='frmPatrimony:tvSuporte:accPrincipal']/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-accordion-header.ui-helper-reset.ui-state-default.ui-corner-all.ui-state-hover.ui-tabs-outline</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>05227895-eceb-4893-a587-ac05dc4e83c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-accordion-header ui-helper-reset ui-state-default ui-corner-all ui-state-hover ui-tabs-outline</value>
+      <webElementGuid>fcb41d05-57e3-4121-87bc-346f7d8e1ed6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>98b71f32-d958-487f-ba41-09169c3cb8ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ab8098d0-5b22-4b31-b23e-05e876fcd55c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>de4d8c6c-7565-4e4f-a9cd-3c31860db66e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>6edfd572-9f97-4b29-b496-216f9edf948c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>REGIME JURÍDICO</value>
+      <webElementGuid>0ff9f995-9b7b-438d-8258-37e31eda059e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmPatrimony:tvSuporte:accPrincipal&quot;)/div[@class=&quot;ui-accordion-header ui-helper-reset ui-state-default ui-corner-all ui-state-hover ui-tabs-outline&quot;]</value>
+      <webElementGuid>4237cbe3-d1b6-437f-b46e-a44c4888b7c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='frmPatrimony:tvSuporte:accPrincipal']/div[3]</value>
+      <webElementGuid>13e671e6-e705-4b63-a7f0-ae0960cc727c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estado'])[1]/following::div[2]</value>
+      <webElementGuid>43289524-3bac-4a5a-8c28-445080c24280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data de Recepção'])[1]/following::div[4]</value>
+      <webElementGuid>ed1de404-9ef1-4681-a31d-780cd7d39528</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Prédio/ Regime Jurídico'])[1]/preceding::div[1]</value>
+      <webElementGuid>39155ff2-077a-4dc4-85ff-00a86d6ac7f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prédio Rústico'])[2]/preceding::div[3]</value>
+      <webElementGuid>0c172039-5475-417a-9307-b6405031afd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='REGIME JURÍDICO']/parent::*</value>
+      <webElementGuid>5f30ce3c-1183-45e5-b0c8-c6243e05150d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[3]</value>
+      <webElementGuid>ebe2a214-6443-4176-9354-7cc7f4bf0c0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'REGIME JURÍDICO' or . = 'REGIME JURÍDICO')]</value>
+      <webElementGuid>98d94707-2001-49b4-99f6-489e43370e1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

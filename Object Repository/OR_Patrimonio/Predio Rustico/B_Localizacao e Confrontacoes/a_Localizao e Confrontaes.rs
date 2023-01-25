@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Localizao e Confrontaes</name>
+   <tag></tag>
+   <elementGuidId>1355c123-cb71-4e1a-be96-142b26139507</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='frmPatrimony:tvSuporte']/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ui-state-default.ui-corner-top.ui-state-hover > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f0f766c3-648c-4c72-81e5-1036a5b613c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#frmPatrimony:tvSuporte:tabImovel</value>
+      <webElementGuid>eac6d724-8395-4bb8-99e6-ee689715e32e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>8d0453df-77e0-459f-bcc0-45b6e68d5841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Localização e Confrontações</value>
+      <webElementGuid>a546c379-64f3-450c-8d68-f0fd3d28fa28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmPatrimony:tvSuporte&quot;)/ul[@class=&quot;ui-tabs-nav ui-helper-reset ui-widget-header ui-corner-all&quot;]/li[@class=&quot;ui-state-default ui-corner-top ui-state-hover&quot;]/a[1]</value>
+      <webElementGuid>236d7e9d-3c69-490a-b220-6a06bfdabe91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='frmPatrimony:tvSuporte']/ul/li[2]/a</value>
+      <webElementGuid>fa604845-d211-4f33-8561-36b0b6ef87c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Localização e Confrontações')]</value>
+      <webElementGuid>14ed7ec8-a4f0-4749-81ad-5b504dac418c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secção Principal'])[1]/following::a[1]</value>
+      <webElementGuid>424b2fec-5b99-47e0-96c8-3ea48f139029</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cadastro de Património'])[1]/following::a[2]</value>
+      <webElementGuid>574a5a0b-9753-414e-b8cc-b78f05ba1c2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipificação'])[1]/preceding::a[1]</value>
+      <webElementGuid>18b6d00d-42b5-41b1-b365-6c956fde623d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Área'])[1]/preceding::a[2]</value>
+      <webElementGuid>f8939792-54c3-48f0-96d5-2822355960d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Localização e Confrontações']/parent::*</value>
+      <webElementGuid>6d150b8c-e1e3-491b-8316-ae5cd6dac835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#frmPatrimony:tvSuporte:tabImovel')]</value>
+      <webElementGuid>128f1fde-63e2-4787-924f-deac101ec82a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/ul/li[2]/a</value>
+      <webElementGuid>4b813016-6b23-4996-b99e-1711f3db3bf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#frmPatrimony:tvSuporte:tabImovel' and (text() = 'Localização e Confrontações' or . = 'Localização e Confrontações')]</value>
+      <webElementGuid>aad9df76-0c3f-4e79-bc23-dcd81425cf19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

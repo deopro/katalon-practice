@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_No preenchido</name>
+   <tag></tag>
+   <elementGuidId>68e32697-f94a-4eba-b0d5-73f16162d785</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='frmPatrimony:tvSuporte:accPrincipal:behalfOf_label']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>663cee5a-d3d5-49f6-87bb-d3eb7e5265ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmPatrimony:tvSuporte:accPrincipal:behalfOf_label</value>
+      <webElementGuid>58c6b25d-66b7-4dfe-aa6b-c5d9b51d2a2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
+      <webElementGuid>192a5b25-bee6-4e14-b254-466b3cd7701c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Não preenchido</value>
+      <webElementGuid>7d7b4b4e-aa71-43ba-a655-16703ee69516</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmPatrimony:tvSuporte:accPrincipal:behalfOf_label&quot;)</value>
+      <webElementGuid>4dc7fd06-1398-40cf-9e2c-afdd7a0a2e31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='frmPatrimony:tvSuporte:accPrincipal:behalfOf_label']</value>
+      <webElementGuid>f42a6d0d-cc0a-4fdf-8fb9-5d06ed59f945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='frmPatrimony:tvSuporte:accPrincipal:behalfOf']/label</value>
+      <webElementGuid>92d2913b-238c-4ef7-808d-baf9f000d907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Na Qualidade de*'])[1]/following::label[1]</value>
+      <webElementGuid>7ad4cabe-fc6b-4eb3-84ff-2e6fdf91416c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nome*'])[1]/following::label[2]</value>
+      <webElementGuid>1340fa1e-21bb-4b05-bb83-07c7193b12b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDENTIFICAÇÃO DO IMÓVEL'])[1]/preceding::label[1]</value>
+      <webElementGuid>e4bbfb35-0c3e-486c-9f8e-80f4ba3c5dca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nome da Propriedade*'])[1]/preceding::label[1]</value>
+      <webElementGuid>a3179081-b5d1-472f-834f-d02d8d3cf414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/label</value>
+      <webElementGuid>0dee662f-c41a-4d70-954d-b36a345b8e21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'frmPatrimony:tvSuporte:accPrincipal:behalfOf_label' and (text() = 'Não preenchido' or . = 'Não preenchido')]</value>
+      <webElementGuid>8cd56c2d-6402-478e-b9ed-eed907d56d7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

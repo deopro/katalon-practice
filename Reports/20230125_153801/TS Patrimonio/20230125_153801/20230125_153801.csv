@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS Patrimonio,Chrome 109.0.0.0,,,2023-01-25 15:38:07,2023-01-25 15:39:23,1m - 16.775s,FAILED
+,,,,,,,
+Test Cases/TC_Patrimonio/FO_Login,Chrome 109.0.0.0,,,2023-01-25 15:38:07,2023-01-25 15:38:23,15.973s,PASSED
+"openBrowser("""")",Chrome 109.0.0.0,,,2023-01-25 15:38:07,2023-01-25 15:38:11,3.532s,PASSED
+"navigateToUrl(""http://10.129.105.196:7003/frontoffice/login"")",Chrome 109.0.0.0,,,2023-01-25 15:38:11,2023-01-25 15:38:13,1.571s,PASSED
+"setText(findTestObject(""Object Repository/OR_Patrimonio/FO_Login/input_Username_j_username""), ""Patrimonio3RF"")",Chrome 109.0.0.0,,,2023-01-25 15:38:13,2023-01-25 15:38:14,0.969s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/OR_Patrimonio/FO_Login/input_Password_j_password""), ""9NyHeMJyhFc="")",Chrome 109.0.0.0,,,2023-01-25 15:38:14,2023-01-25 15:38:14,0.529s,PASSED
+"click(findTestObject(""Object Repository/OR_Patrimonio/FO_Login/input_Password_j_id_t""))",Chrome 109.0.0.0,,,2023-01-25 15:38:14,2023-01-25 15:38:22,8.331s,PASSED
+"click(findTestObject(""Object Repository/OR_Patrimonio/FO_Login/a_Patrimnio""))",Chrome 109.0.0.0,,,2023-01-25 15:38:22,2023-01-25 15:38:23,0.514s,PASSED
+,,,,,,,
+Test Cases/TC_Patrimonio/Predio Rustico/Menu,Chrome 109.0.0.0,,,2023-01-25 15:38:23,2023-01-25 15:38:44,21.478s,PASSED
+"click(findTestObject(""Object Repository/OR_Patrimonio/Predio Rustico/Menu/a_Cadastro""))",Chrome 109.0.0.0,,,2023-01-25 15:38:23,2023-01-25 15:38:24,0.397s,PASSED
+"click(findTestObject(""Object Repository/OR_Patrimonio/Predio Rustico/Menu/a_Prdio""))",Chrome 109.0.0.0,,,2023-01-25 15:38:24,2023-01-25 15:38:25,0.645s,PASSED
+"click(findTestObject(""Object Repository/OR_Patrimonio/Predio Rustico/Menu/a_Rstico""))",Chrome 109.0.0.0,,,2023-01-25 15:38:25,2023-01-25 15:38:44,19.859s,PASSED
+,,,,,,,
+Test Cases/TC_Patrimonio/Predio Rustico/A_Seccao Principal,Chrome 109.0.0.0,,,2023-01-25 15:39:23,2023-01-25 15:39:23,0.177s,FAILED
+"click(findTestObject(""Object Repository/OR_Patrimonio/Predio Rustico/A_Seccao Principal/div_GERAL""))",Chrome 109.0.0.0,,,2023-01-25 15:39:23,2023-01-25 15:39:23,0.159s,FAILED

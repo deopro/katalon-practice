@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FO Patrimonio,Chrome 109.0.0.0,,,2023-01-25 11:39:44,2023-01-25 11:48:11,8m - 27.088s,FAILED
+,,,,,,,
+Test Cases/TC_Patrimonio/FO_Login,Chrome 109.0.0.0,,,2023-01-25 11:39:44,2023-01-25 11:40:02,17.825s,PASSED
+"openBrowser("""")",Chrome 109.0.0.0,,,2023-01-25 11:39:45,2023-01-25 11:39:48,2.743s,PASSED
+"navigateToUrl(""http://10.129.105.196:7003/frontoffice/login"")",Chrome 109.0.0.0,,,2023-01-25 11:39:48,2023-01-25 11:39:49,1.874s,PASSED
+"setText(findTestObject(""Object Repository/OR_Patrimonio/FO_Login/input_Username_j_username""), ""Patrimonio3RF"")",Chrome 109.0.0.0,,,2023-01-25 11:39:49,2023-01-25 11:39:50,0.778s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/OR_Patrimonio/FO_Login/input_Password_j_password""), ""9NyHeMJyhFc="")",Chrome 109.0.0.0,,,2023-01-25 11:39:50,2023-01-25 11:39:51,0.484s,PASSED
+"click(findTestObject(""Object Repository/OR_Patrimonio/FO_Login/input_Password_j_id_t""))",Chrome 109.0.0.0,,,2023-01-25 11:39:51,2023-01-25 11:40:02,11.069s,PASSED
+"click(findTestObject(""Object Repository/OR_Patrimonio/FO_Login/a_Patrimnio""))",Chrome 109.0.0.0,,,2023-01-25 11:40:02,2023-01-25 11:40:02,0.479s,PASSED
+,,,,,,,
+Test Cases/TC_Patrimonio/Predio Rustico/Menu,Chrome 109.0.0.0,,,2023-01-25 11:40:02,2023-01-25 11:40:21,18.632s,PASSED
+"click(findTestObject(""Object Repository/OR_Patrimonio/Predio Rustico/Menu/a_Cadastro""))",Chrome 109.0.0.0,,,2023-01-25 11:40:03,2023-01-25 11:40:03,0.594s,PASSED
+"click(findTestObject(""Object Repository/OR_Patrimonio/Predio Rustico/Menu/a_Prdio""))",Chrome 109.0.0.0,,,2023-01-25 11:40:03,2023-01-25 11:40:04,0.502s,PASSED
+"click(findTestObject(""Object Repository/OR_Patrimonio/Predio Rustico/Menu/a_Rstico""))",Chrome 109.0.0.0,,,2023-01-25 11:40:04,2023-01-25 11:40:21,17.135s,PASSED
+,,,,,,,
+Test Cases/TC_Patrimonio/Predio Rustico/A_Seccao Principal,Chrome 109.0.0.0,,,2023-01-25 11:43:21,2023-01-25 11:44:40,1m - 19.607s,FAILED
+"callTestCase(findTestCase(""TC_Patrimonio/FO_Login""), [:], STOP_ON_FAILURE)",Chrome 109.0.0.0,,,2023-01-25 11:43:21,2023-01-25 11:44:09,47.904s,PASSED
+"click(findTestObject(""Object Repository/OR_Patrimonio/Predio Rustico/A_Seccao Principal/div_GERAL""))",Chrome 109.0.0.0,,,2023-01-25 11:44:09,2023-01-25 11:44:40,31.688s,FAILED
+,,,,,,,
+Test Cases/TC_Patrimonio/Predio Rustico/B_Localicacao e Confrontacoes,Chrome 109.0.0.0,,,2023-01-25 11:47:19,2023-01-25 11:48:11,52.633s,FAILED
+"callTestCase(findTestCase(""TC_Patrimonio/FO_Login""), [:], STOP_ON_FAILURE)",Chrome 109.0.0.0,,,2023-01-25 11:47:19,2023-01-25 11:47:33,14.013s,PASSED
+"click(findTestObject(""Object Repository/OR_Patrimonio/Predio Rustico/B_Localizacao e Confrontacoes/a_Localizao e Confrontaes""))",Chrome 109.0.0.0,,,2023-01-25 11:47:33,2023-01-25 11:48:11,38.613s,FAILED

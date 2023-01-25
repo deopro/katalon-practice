@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Patrimnio</name>
+   <tag></tag>
+   <elementGuidId>6b909812-a7a0-4bf4-8d3c-c48ec5941186</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='content']/div/main/div/div/div/aside/div/ul/li[3]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.submenu.patrimonio > a.collapsed > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b4949f8c-c27d-452f-ae0d-786109ee725a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Património</value>
+      <webElementGuid>0ab185f5-94ed-48d4-9148-da9afaa60e9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row-md&quot;]/main[@class=&quot;main-content row&quot;]/div[@class=&quot;homepage col-md-10 col-sm-offset-1&quot;]/div[@class=&quot;row margin-bottom-fitteen&quot;]/div[@class=&quot;row col-md-12&quot;]/aside[@class=&quot;aside col-md-4&quot;]/div[@class=&quot;col-md-3 column&quot;]/ul[@class=&quot;nav nav-pills nav-stacked&quot;]/li[@class=&quot;submenu patrimonio&quot;]/a[@class=&quot;collapsed&quot;]/span[1]</value>
+      <webElementGuid>8c7e6b62-037d-4625-b338-d0a1b2899fb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='content']/div/main/div/div/div/aside/div/ul/li[3]/a/span</value>
+      <webElementGuid>91e7ad55-b67f-4cf6-bc21-399f45b56614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultar'])[2]/following::span[1]</value>
+      <webElementGuid>bf4d2680-4abd-405c-b447-026dd1096e65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Novo Cadastro'])[2]/following::span[2]</value>
+      <webElementGuid>165b304c-3f00-43c1-a8f0-b9a5980bab82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cadastro'])[1]/preceding::span[1]</value>
+      <webElementGuid>09da38d0-6eac-441b-b48e-e256fe448183</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pesquisar'])[1]/preceding::span[2]</value>
+      <webElementGuid>d5f00de0-88c0-42b2-ae20-b632a5de5926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/div/ul/li[3]/a/span</value>
+      <webElementGuid>2dea2c86-d056-41d2-8ce2-0511cdd61a59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Património' or . = 'Património')]</value>
+      <webElementGuid>36764d2a-cbce-40bd-b5c8-b25a1bf7f02f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
