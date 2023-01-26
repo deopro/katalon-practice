@@ -17,20 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'), 
-    'Hongkong CURA Healthcare Center', true)
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart_1'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f'))
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart_1_2'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Medicaid_programs'))
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/span_3'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date'))
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Remove'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/td_31'))
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Checkout'))
 
-WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment'), 'Practicing automation testing')
+WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Checkout Your Information_firstName'), 'Deo')
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Book Appointment'))
+WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Checkout Your Information_lastName'), 'Pro')
+
+WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Checkout Your Information_postalCode'), '2026')
+
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_Cancel_continue'))
+
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Finish'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/h2_THANK YOU FOR YOUR ORDER'), 'THANK YOU FOR YOUR ORDER')
 

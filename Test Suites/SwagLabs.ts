@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>LoginandBooking</name>
+   <name>SwagLabs</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>0</numberOfRerun>
+   <numberOfRerun>3</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>fe87c6df-cdd8-479e-b16b-a721d1511a73</testSuiteGuid>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>daad53c5-1c26-4960-9cb8-31e98f71dd27</testSuiteGuid>
    <testCaseLink>
-      <guid>8e6f8a4d-eb79-4d5e-88d7-d90181fa68c5</guid>
+      <guid>654f7e49-9adc-4a36-a8cd-b6c3a44af3b2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Demo Project/Login</testCaseId>
+      <testCaseId>Test Cases/SwagLabs Demo/Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>c65bb75f-a4f6-45e9-9110-e1e28c53b793</guid>
+      <guid>1544c3ab-3f3a-4f4a-aff1-2baf7b30d569</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Demo Project/BookingAnAppointment</testCaseId>
+      <testCaseId>Test Cases/SwagLabs Demo/Purchase</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
