@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Progress Sitefinity_Box-close icon-x lite_c3a003</name>
+   <tag></tag>
+   <elementGuidId>50054809-d846-4adb-917e-a349f576cac7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#assessment > a.Box-close.icon-x.litebox-close-btn.u-tdn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='assessment']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dcf96a4d-1a4a-40e4-8994-336058ef8f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>a095a4a7-b74d-4460-ab1d-6fe04c263b8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Box-close icon-x litebox-close-btn u-tdn</value>
+      <webElementGuid>05a7e0be-4b6d-49ec-bef0-7ba8c75ccac5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-track-instance</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>70ff5630-714a-431a-904d-c379efa925a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;assessment&quot;)/a[@class=&quot;Box-close icon-x litebox-close-btn u-tdn&quot;]</value>
+      <webElementGuid>804b7bae-96fb-4523-93f3-634e20746db0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='assessment']/a</value>
+      <webElementGuid>cf36d884-042a-428c-a697-d1b7b63dadd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[3]</value>
+      <webElementGuid>e66a2ce2-c2af-45d7-8931-7711abf713c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/a</value>
+      <webElementGuid>586d91bc-8184-4ce5-bf6f-9a5e76dfdb52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);']</value>
+      <webElementGuid>0e67d706-90ae-4089-927a-db720e6ba8ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

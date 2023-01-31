@@ -15,14 +15,21 @@
       <guid>3d20e8d3-b228-4af7-ac5e-96c87574f3b2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_Patrimonio/FO_Login</testCaseId>
+      <testCaseId>Test Cases/TC_Patrimonio/General/FO_Login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8543b462-39e5-472b-b6ca-0db24289c33a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Patrimonio/General/Menu</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>8e1e9ee9-aaea-4a1a-b418-228f2492252b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_Patrimonio/Predio Rustico/Menu</testCaseId>
+      <testCaseId>Test Cases/TC_Patrimonio/Predio Rustico/Menu_Predio Rustico</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

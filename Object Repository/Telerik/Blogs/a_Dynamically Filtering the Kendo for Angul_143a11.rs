@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dynamically Filtering the Kendo for Angul_143a11</name>
+   <tag></tag>
+   <elementGuidId>039a6215-c257-4f3b-a5fc-e2d5e297a418</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ContentPlaceholder1_T19FA31EB003_Col00']/div[3]/ul/li[3]/div/div/h3/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dc26d32e-a377-4429-9402-fdcdab4fc20d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/blogs/dynamically-filtering-kendo-angular-grid-code</value>
+      <webElementGuid>22ab96e2-f519-4ab6-8241-2a93deda7b99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dynamically Filtering the Kendo for Angular Grid From Code</value>
+      <webElementGuid>6f17a7fb-a2f8-4a8a-8aae-fc70e7d1111e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContentPlaceholder1_T19FA31EB003_Col00&quot;)/div[3]/ul[@class=&quot;List BlogPost-list&quot;]/li[3]/div[@class=&quot;BlogPost&quot;]/div[@class=&quot;Info&quot;]/h3[@class=&quot;h2 u-mb3 u-fs31&quot;]/a[1]</value>
+      <webElementGuid>e07763bd-fae6-473c-8102-29b08dfe710e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ContentPlaceholder1_T19FA31EB003_Col00']/div[3]/ul/li[3]/div/div/h3/a</value>
+      <webElementGuid>1b40ac2d-bfb0-40f8-a3c3-aa36eba58ada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Dynamically Filtering the Kendo for Angular Grid From Code')]</value>
+      <webElementGuid>52a66463-4995-4eba-a899-b1285e21da61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Angular'])[1]/following::a[1]</value>
+      <webElementGuid>2c1895af-58f4-4b65-b3c2-3c7f3c3d5180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web'])[5]/following::a[2]</value>
+      <webElementGuid>a3974dcc-2f82-47e4-9dc1-fd059dad4f84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peter Vogel'])[1]/preceding::a[1]</value>
+      <webElementGuid>d6965cf2-bf87-4f09-ab73-f79dea06e6cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dynamically Filtering the Kendo for Angular Grid From Code']/parent::*</value>
+      <webElementGuid>a99cc13f-4179-4f5f-a338-e9c9eec37511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/blogs/dynamically-filtering-kendo-angular-grid-code')]</value>
+      <webElementGuid>1ae9d155-4021-4680-b64b-790e0e31d4cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/h3/a</value>
+      <webElementGuid>34381636-618c-44a3-ab95-042aaa2905a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/blogs/dynamically-filtering-kendo-angular-grid-code' and (text() = 'Dynamically Filtering the Kendo for Angular Grid From Code' or . = 'Dynamically Filtering the Kendo for Angular Grid From Code')]</value>
+      <webElementGuid>529d3d0c-8f51-4545-818c-60ff9a14b548</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

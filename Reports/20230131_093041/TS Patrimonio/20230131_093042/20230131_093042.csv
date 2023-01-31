@@ -1,0 +1,24 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS Patrimonio,Chrome 109.0.0.0,,,2023-01-31 09:30:54,2023-01-31 09:32:46,1m - 52.569s,FAILED
+,,,,,,,
+Test Cases/TC_Patrimonio/General/FO_Login,Chrome 109.0.0.0,,,2023-01-31 09:30:54,2023-01-31 09:31:41,47.260s,PASSED
+"openBrowser("""")",Chrome 109.0.0.0,,,2023-01-31 09:30:54,2023-01-31 09:30:57,2.326s,PASSED
+"navigateToUrl(""http://10.129.105.196:7003/frontoffice/login"")",Chrome 109.0.0.0,,,2023-01-31 09:30:57,2023-01-31 09:31:01,3.938s,PASSED
+"setText(findTestObject(""Object Repository/OR_Patrimonio/FO_Login/input_Username_j_username""), ""Patrimonio3RF"")",Chrome 109.0.0.0,,,2023-01-31 09:31:01,2023-01-31 09:31:02,0.854s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/OR_Patrimonio/FO_Login/input_Password_j_password""), ""9NyHeMJyhFc="")",Chrome 109.0.0.0,,,2023-01-31 09:31:02,2023-01-31 09:31:02,0.458s,PASSED
+"click(findTestObject(""Object Repository/OR_Patrimonio/FO_Login/input_Password_j_id_t""))",Chrome 109.0.0.0,,,2023-01-31 09:31:02,2023-01-31 09:31:41,38.850s,PASSED
+"click(findTestObject(""Object Repository/OR_Patrimonio/FO_Login/a_Patrimnio""))",Chrome 109.0.0.0,,,2023-01-31 09:31:41,2023-01-31 09:31:41,0.471s,PASSED
+,,,,,,,
+Test Cases/TC_Patrimonio/General/Menu,Chrome 109.0.0.0,,,2023-01-31 09:31:43,2023-01-31 09:31:44,1.290s,PASSED
+"click(findTestObject(""Object Repository/OR_Patrimonio/FO_Login/a_Patrimnio""))",Chrome 109.0.0.0,,,2023-01-31 09:31:43,2023-01-31 09:31:43,0.340s,PASSED
+"click(findTestObject(""Object Repository/OR_Patrimonio/Predio Rustico/Menu/a_Cadastro""))",Chrome 109.0.0.0,,,2023-01-31 09:31:43,2023-01-31 09:31:44,0.368s,PASSED
+"click(findTestObject(""Object Repository/OR_Patrimonio/Predio Rustico/Menu/a_Prdio""))",Chrome 109.0.0.0,,,2023-01-31 09:31:44,2023-01-31 09:31:44,0.575s,PASSED
+,,,,,,,
+Test Cases/TC_Patrimonio/Predio Rustico/Menu_Predio Rustico,Chrome 109.0.0.0,,,2023-01-31 09:31:44,2023-01-31 09:31:57,12.479s,PASSED
+"click(findTestObject(""Object Repository/OR_Patrimonio/Predio Rustico/Menu/a_Rstico""))",Chrome 109.0.0.0,,,2023-01-31 09:31:45,2023-01-31 09:31:57,12.141s,PASSED
+,,,,,,,
+Test Cases/TC_Patrimonio/Predio Rustico/A_Seccao Principal,Chrome 109.0.0.0,,,2023-01-31 09:32:45,2023-01-31 09:32:45,0.129s,FAILED
+"click(findTestObject(""Object Repository/OR_Patrimonio/Predio Rustico/A_Seccao Principal/div_GERAL""))",Chrome 109.0.0.0,,,2023-01-31 09:32:45,2023-01-31 09:32:45,0.119s,FAILED
+,,,,,,,
+Test Cases/TC_Patrimonio/Predio Rustico/B_Localicacao e Confrontacoes,Chrome 109.0.0.0,,,2023-01-31 09:32:46,2023-01-31 09:32:46,0.168s,FAILED
+"click(findTestObject(""Object Repository/OR_Patrimonio/Predio Rustico/B_Localizacao e Confrontacoes/a_Localizao e Confrontaes""))",Chrome 109.0.0.0,,,2023-01-31 09:32:46,2023-01-31 09:32:46,0.161s,FAILED

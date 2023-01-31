@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continue</name>
+   <tag></tag>
+   <elementGuidId>f3dbf776-bc8f-44e7-a4bf-dcc8d182311a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-accent.btn-lg.u-fr.e2e-continue.loader-container > span.btn-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue Shopping'])[2]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>06dd3661-e321-427d-a2cb-3374d03623e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-content</value>
+      <webElementGuid>e471e650-783b-4344-9327-786568b79a6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue</value>
+      <webElementGuid>7c00e568-1d66-40e5-925b-378aec1468f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-body ng-tns-0-2&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;wrapper&quot;]/shopping-cart-app[1]/section[@class=&quot;container&quot;]/your-order[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;panel your-order-wrapper panel-main ng-star-inserted&quot;]/div[@class=&quot;panel-body ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/button[@class=&quot;btn btn-accent btn-lg u-fr e2e-continue loader-container&quot;]/span[@class=&quot;btn-content&quot;]</value>
+      <webElementGuid>eca1c8b7-5c36-451b-b790-88dba6f12222</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue Shopping'])[2]/following::span[1]</value>
+      <webElementGuid>a0a406b3-d5cf-484b-b932-380d7962b73d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='US $5,493.39'])[1]/following::span[2]</value>
+      <webElementGuid>d7c296ac-677c-4ead-ab8b-7d33a11f6556</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='telerik-sales@progress.com'])[1]/preceding::span[1]</value>
+      <webElementGuid>6da4adf6-f538-47aa-b45c-62b834cefa6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reload Page'])[1]/preceding::span[1]</value>
+      <webElementGuid>8f9c9437-d591-41ec-8066-a331d49e043f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue']/parent::*</value>
+      <webElementGuid>6d3da588-cfb1-4e37-954a-7b498cdebd0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/button/span</value>
+      <webElementGuid>b86b46a6-0a2a-40c2-93a7-ff9200a90cc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>1429923d-4b3d-4ec2-94dd-b8e4cd65960b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

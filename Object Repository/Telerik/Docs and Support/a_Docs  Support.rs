@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Docs  Support</name>
+   <tag></tag>
+   <elementGuidId>57b25598-e1f0-44a7-bb89-0cacc537c413</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='js-tlrk-nav-drawer']/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b1f93d47-8c8d-4c8d-8b0c-cf65b85f5122</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/support</value>
+      <webElementGuid>8ebdcbda-19c4-46ea-b06f-6fa22dcebc4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TK-Menu-Item-Link</value>
+      <webElementGuid>d44bf252-3f31-40d5-9f61-8c284483b40a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pattern</name>
+      <type>Main</type>
+      <value>telerik.com/support/kb/aspnet-ajax|telerik.com/support/kb/silverlight|telerik.com/support/kb/justmock</value>
+      <webElementGuid>5915e7a8-ecf0-4309-b702-160b073a1e0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Docs &amp; Support</value>
+      <webElementGuid>26dfbbf1-1ed5-4b5f-8244-687e288105ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-tlrk-nav-drawer&quot;)/ul[@class=&quot;TK-Context-Menu TK-Menu&quot;]/li[@class=&quot;TK-Menu-Item&quot;]/a[@class=&quot;TK-Menu-Item-Link&quot;]</value>
+      <webElementGuid>77df58e6-e0c0-4c96-91fc-6ceac67ae90d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='js-tlrk-nav-drawer']/ul/li[4]/a</value>
+      <webElementGuid>0027291c-3f2c-4cc5-8ec5-a8f441abd2e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Docs &amp; Support')]</value>
+      <webElementGuid>2d6b63c2-1618-40ac-b702-a582cb6d2d81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blogs'])[1]/following::a[1]</value>
+      <webElementGuid>ea341606-c80e-47e9-bb81-beddbf27e69c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/following::a[2]</value>
+      <webElementGuid>d7cdb609-576c-4291-906a-01460c5c3da6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pricing'])[1]/preceding::a[1]</value>
+      <webElementGuid>361d0e44-de19-46aa-9d16-d443527f5611</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::a[2]</value>
+      <webElementGuid>49643fa8-3fbf-430c-aa2c-2ed96da2328f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Docs &amp; Support']/parent::*</value>
+      <webElementGuid>6bfc60b9-cebe-4c50-ba24-a26cf60d4636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/support')])[3]</value>
+      <webElementGuid>203067f6-b698-44a9-b936-53703c625ce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>9b3dd098-2d74-46c4-8e71-485d8dd36f7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/support' and (text() = 'Docs &amp; Support' or . = 'Docs &amp; Support')]</value>
+      <webElementGuid>d846127a-e21b-4edf-8870-02f608ee0b16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select all images with motorcycles</name>
+   <tag></tag>
+   <elementGuidId>1818e6ac-6ac2-47b3-b635-e1c1039befce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.rc-imageselect-desc-no-canonical</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rc-imageselect']/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bc873e36-e8bc-40bb-a14e-a08b37f8e8c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rc-imageselect-desc-no-canonical</value>
+      <webElementGuid>25b852bb-4f7a-407c-8e7b-2993037f03ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select all images with motorcycles</value>
+      <webElementGuid>0ea8de03-ed36-481a-aae9-caa526141756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-imageselect&quot;)/div[@class=&quot;rc-imageselect-payload&quot;]/div[@class=&quot;rc-imageselect-instructions&quot;]/div[@class=&quot;rc-imageselect-desc-wrapper&quot;]/div[@class=&quot;rc-imageselect-desc-no-canonical&quot;]</value>
+      <webElementGuid>b085fcf2-3040-49fe-954f-478914362bc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Pricing/iframe_Contact Us_c-g43brhq7ut72</value>
+      <webElementGuid>620e9381-21eb-4565-b197-258b83c45abb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc-imageselect']/div[2]/div/div/div</value>
+      <webElementGuid>a1c64d55-a46d-4194-8df5-2ccc56d99016</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify'])[1]/preceding::div[52]</value>
+      <webElementGuid>4d3d548f-a7d6-431a-9469-4b72420bf035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select all images with']/parent::*</value>
+      <webElementGuid>ad1b8186-c34b-4acb-8cc1-d529f0e597f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>ea922149-21b9-4505-91c9-9060c5baa5c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select all images with motorcycles' or . = 'Select all images with motorcycles')]</value>
+      <webElementGuid>5350cf13-e06f-4634-ab19-1551ee6b4045</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
