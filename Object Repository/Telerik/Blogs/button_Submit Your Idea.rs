@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Submit Your Idea</name>
+   <tag></tag>
+   <elementGuidId>a717e1fd-9406-47ad-a6e3-98a97171af0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.slds-p-vertical--small > button.slds-button.slds-button_neutral</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d110bcfb-046e-49ff-b4cb-ee6ebe58af4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0602e110-f2dd-4d85-a3f7-5649fb6e143d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-button slds-button_neutral</value>
+      <webElementGuid>54738bf6-6668-47f6-a4c4-4da5568bc1d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>920:0</value>
+      <webElementGuid>fd994c99-2c49-4d11-a8a2-aba91463132d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit Your Idea</value>
+      <webElementGuid>75b6993b-7321-4b4f-91df-9600a23c0ff8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;null comm-page-custom-sitefinity&quot;]/div[@class=&quot;themeLayoutStarterWrapper isHeroUnderHeader-false isHeaderPinned-false siteforceThemeLayoutStarter&quot;]/div[@class=&quot;body isPageWidthFixed-true&quot;]/div[@class=&quot;siteforceDynamicLayout siteforceContentArea&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/div[@class=&quot;cb-section forceCommunitySection&quot;]/div[@class=&quot;cb-section_row slds-grid slds-wrap slds-large-nowrap&quot;]/div[@class=&quot;cb-section_column slds-size_12-of-12 slds-max-medium-size_12-of-12 slds-large-size_4-of-12&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/div[@class=&quot;carousel cloudx_cmsSS_uiCarousel cloudx_cmsSS_cmsCarousel&quot;]/div[@class=&quot;slds-grid slds-wrap slds-grid--pull-padded&quot;]/div[@class=&quot;carousel-cell slds-col--padded slds-size--1-of-1 cloudx_cmsSS_uiBaseCarouselSlide cloudx_cmsSS_cmsCarouselSlide&quot;]/figure[@class=&quot;slds-image slds-image--card cloudx_cmsSS_uiImageBanner&quot;]/figcaption[@class=&quot;slds-image__title slds-image__title--overlay&quot;]/div[@class=&quot;slds-image__text&quot;]/div[@class=&quot;slds-p-around--small slds-text-align--left&quot;]/div[@class=&quot;slds-p-vertical--small&quot;]/button[@class=&quot;slds-button slds-button_neutral&quot;]</value>
+      <webElementGuid>fcee1dff-d400-44d8-9628-cb62456c2622</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>dae6ba66-b694-4b78-ab9f-0c2447ae8ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sitefinity Cloud: Automated Upgrades'])[1]/following::button[1]</value>
+      <webElementGuid>ad296a21-8446-4655-b9ff-8fae5f5e694c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sitefinity Cloud Has You Covered'])[1]/following::button[1]</value>
+      <webElementGuid>8f5b36a2-95a7-4e8e-bbc8-ad3be1052dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prev'])[1]/preceding::button[1]</value>
+      <webElementGuid>0ce2c07a-cf15-461f-bb66-dd372d99fc57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='goto'])[1]/preceding::button[2]</value>
+      <webElementGuid>12234710-6dc9-49a8-bb25-0f220bd6a386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit Your Idea']/parent::*</value>
+      <webElementGuid>43b65881-1a66-44cf-9dcc-67d6a5a31db9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//figcaption/div/div/div/button</value>
+      <webElementGuid>05f2696f-c292-4e47-90aa-c5197567d96c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Submit Your Idea' or . = 'Submit Your Idea')]</value>
+      <webElementGuid>ef03db1b-1a3c-4776-a003-2887276ea516</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

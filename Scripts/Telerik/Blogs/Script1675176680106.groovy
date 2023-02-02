@@ -22,15 +22,7 @@ WebUI.callTestCase(findTestCase('Telerik/Open URL'), [:], FailureHandling.STOP_O
 'Maximize current window'
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Telerik/Blogs/button_Get A Free Trial_js-tlrk-nav-drawer-button'))
+WebUI.click(findTestObject('Object Repository/Telerik/Blogs/a_Get A Free Trial'))
 
-WebUI.click(findTestObject('Object Repository/Telerik/Blogs/a_Blogs'))
-
-WebUI.click(findTestObject('Object Repository/Telerik/Blogs/a_Dynamically Filtering the Kendo for Angul_143a11'))
-
-WebUI.click(findTestObject('Object Repository/Telerik/Blogs/a_Mobile'))
-
-WebUI.click(findTestObject('Object Repository/Telerik/Blogs/a_Design'))
-
-WebUI.click(findTestObject('Object Repository/Telerik/Blogs/a_People'))
+WebUI.click(findTestObject('Object Repository/Telerik/Blogs/a_Try now'))
 

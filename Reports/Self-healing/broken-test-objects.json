@@ -9,6 +9,56 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Pricing/span_Quantity_k-icon k-i-arrow-s",
+      "brokenLocator": "//span[@id\u003d\u0027k-549fe178-7095-419c-873c-6305711c3508\u0027]/span[2]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span/span[2]/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Pricing/span_Quantity_k-icon k-i-arrow-s_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Pricing/div_3",
+      "brokenLocator": "//li[@id\u003d\u0027c7728d44-4fad-4818-bdc5-2ad433cef0b4-3\u0027]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Contact Sales\u0027])[1]/following::div[5]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Pricing/div_3_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Pricing/span_1 year",
+      "brokenLocator": "//span[@id\u003d\u0027f5196ef8-18eb-4ed5-9c3f-76d828391b9d\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Quantity\u0027])[4]/following::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Pricing/span_1 year_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Pricing/span_1 year_1",
+      "brokenLocator": "//li[@id\u003d\u0027fc2f7830-c19b-4a6a-b002-604a59abad6b-1\u0027]/div/span/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Continue\u0027])[1]/following::span[5]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Pricing/span_1 year_1_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Pricing/li_American Samoa",
+      "brokenLocator": "//li[@id\u003d\u0027e2948a4d-460a-43e2-9ea8-9191b4fb272f-as\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Algeria\u0027])[1]/following::li[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Pricing/li_American Samoa_neighbor.png"
     }
   ]
 }

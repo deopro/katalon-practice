@@ -19,29 +19,16 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Telerik/Open URL'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Telerik/Create Account/svg'))
+'Maximize current window'
+WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Page_Telerik  Login/input_Work or Telerik Account Email_email'), 'test@test.com')
+WebUI.click(findTestObject('Object Repository/Telerik/Docs and Support/a_Login'))
+
+WebUI.setText(findTestObject('Object Repository/Telerik/Create Account/input_Work or Telerik Account Email_email'), 'test@test.com')
 
 WebUI.click(findTestObject('Object Repository/Telerik/Create Account/button_Next'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Telerik/Create Account/input_Password_password'), '9KuFGzalzWgOpbp98rkftg==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Telerik/Create Account/input_Password_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
-WebUI.setText(findTestObject('Object Repository/Telerik/Create Account/input_First Name_first-name'), 'Deo')
-
-WebUI.setText(findTestObject('Object Repository/Telerik/Create Account/input_Last Name_last-name'), 'Pro')
-
-WebUI.setText(findTestObject('Object Repository/Telerik/Create Account/input_Company_company'), 'Test')
-
-WebUI.setText(findTestObject('Object Repository/Telerik/Create Account/input_To provide you with additional suppor_496b1a'), 
-    '923366180')
-
-WebUI.click(findTestObject('Object Repository/Telerik/Create Account/span_To assign you to a local team that can_cabbee'))
-
-WebUI.click(findTestObject('Object Repository/Telerik/Create Account/li_Angola'))
-
-WebUI.click(findTestObject('Object Repository/Telerik/Create Account/button_Create Account'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Telerik/Create Account/h4_Weve Sent You an Account Activation Email'), 
-    'We\'ve Sent You an Account Activation Email')
+WebUI.click(findTestObject('Object Repository/Telerik/Create Account/button_Log in Now'))
 

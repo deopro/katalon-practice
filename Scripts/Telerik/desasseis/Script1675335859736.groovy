@@ -17,14 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Telerik/Open URL'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.openBrowser('')
 
-'Maximize current window'
-WebUI.maximizeWindow()
-
-WebUI.click(findTestObject('Object Repository/Telerik/Docs and Support/a_Docs  Support'))
-
-WebUI.click(findTestObject('Object Repository/Telerik/Docs and Support/a_Sitefinity'))
-
-WebUI.click(findTestObject('Object Repository/Telerik/Blogs/button_Submit Your Idea'))
+WebUI.navigateToUrl('https://www.telerik.com/support/demos')
 

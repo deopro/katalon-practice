@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Next</name>
+   <name>button_Log in Now</name>
    <tag></tag>
-   <elementGuidId>89b2ccda-5c6a-4e40-8e74-3ca4997b0ec3</elementGuidId>
+   <elementGuidId>db904404-de49-4e9d-9db7-0839e1d83e63</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>dd5849fe-2b37-4c72-8b35-3a220ae3216f</webElementGuid>
+      <webElementGuid>633ca3b4-7df3-44db-8db3-5877a82c3c1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,15 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>5405ea8c-11d5-4159-b566-8d4c497448d5</webElementGuid>
+      <webElementGuid>ad20fa75-7308-497e-b368-871b1d954a88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>trackevent</name>
+      <type>Main</type>
+      <value>Form events, form.captcha, started</value>
+      <webElementGuid>347f6836-922c-4cc3-a232-456acdda90aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,23 +46,23 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-accent u-w100 loader-button</value>
-      <webElementGuid>151190d7-b60c-430d-9a21-e55e370ecbcd</webElementGuid>
+      <webElementGuid>72853584-8485-49da-834d-aab311975c99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Next</value>
-      <webElementGuid>e1017abe-5b0f-4f18-9755-a74587624ccb</webElementGuid>
+      <value>Log in Now</value>
+      <webElementGuid>77e00729-db80-4cd1-b08a-06cbb712f400</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;registerForm&quot;)/div[@class=&quot;u-mb25&quot;]/button[@class=&quot;btn btn-accent u-w100 loader-button&quot;]</value>
-      <webElementGuid>283a5ad2-23f5-41bc-be62-79fdd4ca98cd</webElementGuid>
+      <value>/html[1]/body[@class=&quot;app-body&quot;]/app[@class=&quot;app-content&quot;]/ng-component[1]/div[@class=&quot;u-pr&quot;]/loader[@class=&quot;u-pa&quot;]/div[@class=&quot;loader-content&quot;]/div[@class=&quot;container-floating flow-container&quot;]/div[1]/form[@class=&quot;form-field-list u-mb15 ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;u-mb15&quot;]/button[@class=&quot;btn btn-accent u-w100 loader-button&quot;]</value>
+      <webElementGuid>ebae8a8b-5de0-4b5f-ae14-8e6448d21f61</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,55 +70,39 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>a298fb9a-613a-4f1a-b9b4-da1734844de0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//form[@id='registerForm']/div[2]/button</value>
-      <webElementGuid>f004ad33-157a-400e-86e2-0fb5753fb17e</webElementGuid>
+      <webElementGuid>658f8447-212b-41b9-8289-5cf723c718c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work or Telerik Account Email'])[1]/following::button[1]</value>
-      <webElementGuid>f4abc8f8-2036-411d-b39d-1b080bde99ec</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me logged in'])[1]/following::button[1]</value>
+      <webElementGuid>e9950617-9afa-48a1-af62-42a4b02da345</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Your Email to Sign inor Create an Account'])[1]/following::button[1]</value>
-      <webElementGuid>58991839-00bb-4992-b8ad-6e2fd89397a6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
+      <webElementGuid>1ba0dc1d-58cf-4c79-89d4-3862d09632d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='All fields are required'])[1]/preceding::button[1]</value>
-      <webElementGuid>9b59ab27-d4f4-4b93-8c5d-fa04a95e08e8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recover it now.'])[1]/preceding::button[1]</value>
+      <webElementGuid>82f603cb-951d-42ba-80e7-18ce348dff12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Form is protected with Google reCaptcha'])[1]/preceding::button[1]</value>
-      <webElementGuid>27e93212-b029-4c0e-bca4-700593467620</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
-      <webElementGuid>99d28843-0d8b-4d10-90e9-5a3e40fc6c35</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Log in Now']/parent::*</value>
+      <webElementGuid>ad0a928f-35a4-496b-b207-3b33f1456826</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,14 +110,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>fd0df56b-c873-413d-a804-b2f8384bf6f2</webElementGuid>
+      <webElementGuid>a6ab066a-6a9a-4aa9-8ea5-24c9127db367</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Next' or . = 'Next')]</value>
-      <webElementGuid>b15da67a-361f-4a09-8794-9f38da81ece1</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Log in Now' or . = 'Log in Now')]</value>
+      <webElementGuid>8942c831-782f-4ec1-8885-4d34cf2aa7c5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

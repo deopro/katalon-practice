@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Docs  Support</name>
+   <name>a_Try now</name>
    <tag></tag>
-   <elementGuidId>68c509d4-77c9-4ae3-9b0d-45dabddeb574</elementGuidId>
+   <elementGuidId>d7b33609-c5db-42fe-8e13-a1702cd96ffc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='js-tlrk-nav-drawer']/ul/li[4]/a</value>
+         <value>//div[@id='ContentPlaceholder1_C326_Col01']/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>a.Btn.Btn--prim3.u-fs15.u-w10.u-p1.u-mt1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,126 +22,118 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f312857f-4754-496e-b456-f53246e12ba2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>/support</value>
-      <webElementGuid>1e66cade-f25b-4aa7-8a87-808328b28138</webElementGuid>
+      <webElementGuid>0a98a3cd-02b7-40aa-8be4-059bf278b415</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>TK-Menu-Item-Link</value>
-      <webElementGuid>fa96341f-6cce-4cec-9c81-a84798877c08</webElementGuid>
+      <value>Btn Btn--prim3 u-fs15 u-w10 u-p1 u-mt1</value>
+      <webElementGuid>1785c263-c624-4226-b559-fa5feaf69044</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-pattern</name>
+      <name>href</name>
       <type>Main</type>
-      <value>telerik.com/support/kb/aspnet-ajax|telerik.com/support/kb/silverlight|telerik.com/support/kb/justmock</value>
-      <webElementGuid>effa4ebd-1f1c-4061-a237-87c56de355d0</webElementGuid>
+      <value>/try/devcraft-ultimate</value>
+      <webElementGuid>8d3341a7-d414-4dae-be42-7547d4e90f9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Docs &amp; Support</value>
-      <webElementGuid>e929cbe6-f833-4e9c-86b5-c75b03492e6e</webElementGuid>
+      <value>Try now</value>
+      <webElementGuid>530bcbc1-57f6-4cdb-9ef5-7ddce1b68e47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;js-tlrk-nav-drawer&quot;)/ul[@class=&quot;TK-Context-Menu TK-Menu&quot;]/li[@class=&quot;TK-Menu-Item&quot;]/a[@class=&quot;TK-Menu-Item-Link&quot;]</value>
-      <webElementGuid>c8dcb80e-2743-41b4-9e53-aac0311b333d</webElementGuid>
+      <value>id(&quot;ContentPlaceholder1_C326_Col01&quot;)/a[@class=&quot;Btn Btn--prim3 u-fs15 u-w10 u-p1 u-mt1&quot;]</value>
+      <webElementGuid>f24c8785-f17b-4eb4-9653-9951cdda8bba</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='js-tlrk-nav-drawer']/ul/li[4]/a</value>
-      <webElementGuid>f4a2c485-59bd-4ef9-8433-417565ef4237</webElementGuid>
+      <value>//div[@id='ContentPlaceholder1_C326_Col01']/a</value>
+      <webElementGuid>7a68156e-b62d-4a58-a6c2-efd555a9d597</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Docs &amp; Support')]</value>
-      <webElementGuid>a58934b4-e2ef-4531-ace7-1e4bfc1780f1</webElementGuid>
+      <value>//a[contains(text(),'Try now')]</value>
+      <webElementGuid>ce3d5fe5-ddca-486e-82ab-73cfb84c49b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blogs'])[1]/following::a[1]</value>
-      <webElementGuid>b092c4d2-a9ef-442f-accc-5c27e55434be</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Telerik DevCraft'])[1]/following::a[1]</value>
+      <webElementGuid>ebcc77db-e0b5-4873-ae30-983b57584513</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/following::a[2]</value>
-      <webElementGuid>a664bafd-b539-403e-aeb9-0436d62589b6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free Trials'])[1]/following::a[1]</value>
+      <webElementGuid>03a5654f-ac7f-4a2a-9deb-eb8e5677a00b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pricing'])[1]/preceding::a[1]</value>
-      <webElementGuid>9cfac828-90cf-489f-a664-ce4c58bd350c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kendo UI'])[2]/preceding::a[1]</value>
+      <webElementGuid>22c237e4-2baa-453f-910c-78182fd5255c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::a[2]</value>
-      <webElementGuid>a5ff457f-3296-430c-a458-20e939b82426</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UI for Angular'])[2]/preceding::a[2]</value>
+      <webElementGuid>7633db18-458f-46f9-bd0b-c09efc54d094</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Docs &amp; Support']/parent::*</value>
-      <webElementGuid>5d09afb4-ea6a-4e48-a2c2-3bbd85fb8dc9</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Try now']/parent::*</value>
+      <webElementGuid>94122503-74ae-40c0-bb27-0aea46d8e0d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, '/support')])[3]</value>
-      <webElementGuid>56f5d9f3-1f5c-4c62-9a08-9ff47983c234</webElementGuid>
+      <value>//a[contains(@href, '/try/devcraft-ultimate')]</value>
+      <webElementGuid>c0b7a737-fd1a-4b4e-9798-20b5a00adfd1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[4]/a</value>
-      <webElementGuid>9066d49d-928c-489f-8943-6073a80f1a5c</webElementGuid>
+      <value>//section/div/div/div/div/div[2]/a</value>
+      <webElementGuid>f8e97d7d-4350-4404-90c6-8ab988b721bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/support' and (text() = 'Docs &amp; Support' or . = 'Docs &amp; Support')]</value>
-      <webElementGuid>5e4021e0-81d0-4167-84de-d74d09eb989c</webElementGuid>
+      <value>//a[@href = '/try/devcraft-ultimate' and (text() = 'Try now' or . = 'Try now')]</value>
+      <webElementGuid>d84de0c7-e25c-4928-b6db-98699bc223a7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

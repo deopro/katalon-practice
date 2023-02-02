@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Docs  Support</name>
+   <name>a_Get A Free Trial</name>
    <tag></tag>
-   <elementGuidId>68c509d4-77c9-4ae3-9b0d-45dabddeb574</elementGuidId>
+   <elementGuidId>795d3006-bd82-4de3-9454-12face95eecf</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='js-tlrk-nav-drawer']/ul/li[4]/a</value>
+         <value>//div[@id='js-tlrk-nav-drawer']/ul[2]/li[5]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>a.TK-Button.TK-Button--CTA</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,126 +22,118 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f312857f-4754-496e-b456-f53246e12ba2</webElementGuid>
+      <webElementGuid>cdb74d64-2683-4958-91bf-e0eab15433a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/support</value>
-      <webElementGuid>1e66cade-f25b-4aa7-8a87-808328b28138</webElementGuid>
+      <value>/download</value>
+      <webElementGuid>d8492b97-abd6-4262-8d4d-a56adc6041b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>TK-Menu-Item-Link</value>
-      <webElementGuid>fa96341f-6cce-4cec-9c81-a84798877c08</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-pattern</name>
-      <type>Main</type>
-      <value>telerik.com/support/kb/aspnet-ajax|telerik.com/support/kb/silverlight|telerik.com/support/kb/justmock</value>
-      <webElementGuid>effa4ebd-1f1c-4061-a237-87c56de355d0</webElementGuid>
+      <value>TK-Button TK-Button--CTA</value>
+      <webElementGuid>a46a6cc4-3baf-4214-bc19-39d23fe26817</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Docs &amp; Support</value>
-      <webElementGuid>e929cbe6-f833-4e9c-86b5-c75b03492e6e</webElementGuid>
+      <value>Get A Free Trial</value>
+      <webElementGuid>486a4ddf-0e81-4f83-bb29-f98f71cea474</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;js-tlrk-nav-drawer&quot;)/ul[@class=&quot;TK-Context-Menu TK-Menu&quot;]/li[@class=&quot;TK-Menu-Item&quot;]/a[@class=&quot;TK-Menu-Item-Link&quot;]</value>
-      <webElementGuid>c8dcb80e-2743-41b4-9e53-aac0311b333d</webElementGuid>
+      <value>id(&quot;js-tlrk-nav-drawer&quot;)/ul[@class=&quot;TK-Aside-Menu TK-Aside-Menu--Max&quot;]/li[@class=&quot;TK-Aside-Menu-Item TK-bn&quot;]/a[@class=&quot;TK-Button TK-Button--CTA&quot;]</value>
+      <webElementGuid>054741ef-6c68-4a27-81b3-e4a2334e367c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='js-tlrk-nav-drawer']/ul/li[4]/a</value>
-      <webElementGuid>f4a2c485-59bd-4ef9-8433-417565ef4237</webElementGuid>
+      <value>//div[@id='js-tlrk-nav-drawer']/ul[2]/li[5]/a</value>
+      <webElementGuid>67a765d0-1985-42d0-9d4b-665e66aebb35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Docs &amp; Support')]</value>
-      <webElementGuid>a58934b4-e2ef-4531-ace7-1e4bfc1780f1</webElementGuid>
+      <value>//a[contains(text(),'Get A Free Trial')]</value>
+      <webElementGuid>d75c010e-dbb5-47a0-a6e1-a876c4478984</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blogs'])[1]/following::a[1]</value>
-      <webElementGuid>b092c4d2-a9ef-442f-accc-5c27e55434be</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::a[1]</value>
+      <webElementGuid>695b5750-fab1-4831-b43c-72fa79227d74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/following::a[2]</value>
-      <webElementGuid>a664bafd-b539-403e-aeb9-0436d62589b6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::a[2]</value>
+      <webElementGuid>a8c255e0-e8e2-4216-bf76-140d39993118</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pricing'])[1]/preceding::a[1]</value>
-      <webElementGuid>9cfac828-90cf-489f-a664-ce4c58bd350c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close mobile menu'])[1]/preceding::a[1]</value>
+      <webElementGuid>13a7ef22-6320-468d-a266-793641f71ec0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::a[2]</value>
-      <webElementGuid>a5ff457f-3296-430c-a458-20e939b82426</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demos'])[2]/preceding::a[1]</value>
+      <webElementGuid>6b8b3105-0de0-4bb8-ba56-c23b69dd684b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Docs &amp; Support']/parent::*</value>
-      <webElementGuid>5d09afb4-ea6a-4e48-a2c2-3bbd85fb8dc9</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Get A Free Trial']/parent::*</value>
+      <webElementGuid>06375519-2cb6-49ee-93b9-8fbe9d43f0f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, '/support')])[3]</value>
-      <webElementGuid>56f5d9f3-1f5c-4c62-9a08-9ff47983c234</webElementGuid>
+      <value>//a[contains(@href, '/download')]</value>
+      <webElementGuid>0209cab5-1f05-47c1-a383-b4af368f60e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[4]/a</value>
-      <webElementGuid>9066d49d-928c-489f-8943-6073a80f1a5c</webElementGuid>
+      <value>//ul[2]/li[5]/a</value>
+      <webElementGuid>24861ef3-be07-4808-bb8e-8206c636537c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/support' and (text() = 'Docs &amp; Support' or . = 'Docs &amp; Support')]</value>
-      <webElementGuid>5e4021e0-81d0-4167-84de-d74d09eb989c</webElementGuid>
+      <value>//a[@href = '/download' and (text() = 'Get A Free Trial' or . = 'Get A Free Trial')]</value>
+      <webElementGuid>ea9188a0-5e07-4f0a-80c0-3b8d2a4d2f15</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
