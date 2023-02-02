@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SwagLabs,,,,2023-02-02 22:30:01,2023-02-02 22:30:53,52.288s,FAILED
+,,,,,,,
+Test Cases/SwagLabs Demo/Login,,,,2023-02-02 22:30:38,2023-02-02 22:30:48,9.831s,FAILED
+"openBrowser("""")",,,,2023-02-02 22:30:38,2023-02-02 22:30:48,9.806s,FAILED
+,,,,,,,
+Test Cases/SwagLabs Demo/Purchase,,,,2023-02-02 22:30:53,2023-02-02 22:30:53,0.319s,FAILED
+"click(findTestObject(""Object Repository/Page_Swag Labs/button_Add to cart""))",,,,2023-02-02 22:30:53,2023-02-02 22:30:53,0.264s,FAILED
