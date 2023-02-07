@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Trade-in your Device</name>
+   <tag></tag>
+   <elementGuidId>36123c6b-8378-4c69-b2b4-439a8924b6b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div/div/div[3]/div/div/div/div/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7348f792-4931-41dd-bfd3-504134391920</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.incredible.co.za/services/help-centre/trade-in-your-device</value>
+      <webElementGuid>628bffb5-b6e2-429b-be51-e7d25bef3b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>aa6be06d-9079-4270-a5c2-593b7c941d9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Trade-in your Device</value>
+      <webElementGuid>c519b9fb-bbae-401d-ba34-803d2ebba375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[3]/div[1]/div[@class=&quot;pagebuilder-column-group&quot;]/div[@class=&quot;pagebuilder-column&quot;]/div[1]/ul[@class=&quot;help-centre-links&quot;]/li[5]/a[1]</value>
+      <webElementGuid>18eeb565-4d14-40e5-9ee0-329f0699465f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div/div/div[3]/div/div/div/div/ul/li[5]/a</value>
+      <webElementGuid>51067b2d-6a51-4d47-938d-8ad5653699e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Trade-in your Device')]</value>
+      <webElementGuid>7a4c882a-7655-4083-9dce-0e4febd7837d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click &amp; Collect'])[1]/following::a[1]</value>
+      <webElementGuid>0779234a-7162-440b-885f-df4c8fd57f0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Incredible online account'])[1]/following::a[2]</value>
+      <webElementGuid>57d81a48-7f2f-4d2f-b780-d8aa6975744f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Returns and Refunds'])[1]/preceding::a[1]</value>
+      <webElementGuid>27c62a53-0b31-4f78-a61b-1b9f28687fd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Questions &amp; Answers'])[2]/preceding::a[2]</value>
+      <webElementGuid>7ab923d7-ca20-4eaa-8c91-9d3ed4d50b71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Trade-in your Device']/parent::*</value>
+      <webElementGuid>99b9b335-1ce3-44bd-8344-c89330ba526c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.incredible.co.za/services/help-centre/trade-in-your-device')]</value>
+      <webElementGuid>b20ff8ca-eb9f-4ff0-a540-f1c88eca038a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div[3]/div/div/div/div/ul/li[5]/a</value>
+      <webElementGuid>47fde65f-2558-4136-9640-52455d204d8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.incredible.co.za/services/help-centre/trade-in-your-device' and (text() = 'Trade-in your Device' or . = 'Trade-in your Device')]</value>
+      <webElementGuid>4baab5c1-30e9-43c9-a897-ecd6d34b86a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

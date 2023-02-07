@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Returns and Refunds</name>
+   <tag></tag>
+   <elementGuidId>35c2cfe6-ef05-4a74-9a1c-0b482deeda8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div/div/div[2]/div/div/div/div/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>acfd2e38-8a8f-419f-8df9-b8009106ffe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.incredible.co.za/returns-and-refunds</value>
+      <webElementGuid>67dd5449-f32f-45a7-80f0-26d74f1f8e57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>3285219f-c4b0-4bb7-8223-f1d4ee05431c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Returns and Refunds</value>
+      <webElementGuid>4a0e9d40-ae9a-4677-bbd6-5d5145724041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[2]/div[1]/div[@class=&quot;pagebuilder-column-group&quot;]/div[@class=&quot;pagebuilder-column&quot;]/div[1]/ul[@class=&quot;help-centre-links&quot;]/li[6]/a[1]</value>
+      <webElementGuid>93745530-9490-402a-9e08-1e75a6f98880</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div/div/div[2]/div/div/div/div/ul/li[6]/a</value>
+      <webElementGuid>e7707761-e619-4715-80fe-6e4d106802cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Returns and Refunds')]</value>
+      <webElementGuid>9233bbcd-695b-417e-b3d6-c05807e99878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trade-in your Device'])[1]/following::a[1]</value>
+      <webElementGuid>74adb5e9-d415-4f50-9bdc-b0f5492bc999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click &amp; Collect'])[1]/following::a[2]</value>
+      <webElementGuid>b4d75955-dd2c-42a1-8e48-69ce04848c7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select the Payment Options tab on the menu bar'])[1]/preceding::a[1]</value>
+      <webElementGuid>1f22a62b-5c71-47a0-a30b-ea14566d116c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scroll down to the Trade In option and select ESTIMATE VALUE'])[1]/preceding::a[1]</value>
+      <webElementGuid>1aa87cab-38ee-4c70-831a-298266b2ef69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Returns and Refunds']/parent::*</value>
+      <webElementGuid>ce667f64-f937-4e23-9189-df011ca23ed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.incredible.co.za/returns-and-refunds')]</value>
+      <webElementGuid>64ac1be1-a1ca-4511-974f-c37e68fc659b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/ul/li[6]/a</value>
+      <webElementGuid>e6ebcb6e-f734-436f-a132-7b75177bb7aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.incredible.co.za/returns-and-refunds' and (text() = 'Returns and Refunds' or . = 'Returns and Refunds')]</value>
+      <webElementGuid>053ff7d7-ad2f-4981-b72c-fa0e42f7db70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Passport</name>
+   <tag></tag>
+   <elementGuidId>df76fa4e-151b-4abc-a96d-bd50d44bd827</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.label.passport</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-validate']/fieldset/div[5]/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>9ac58d0e-44fd-47e8-881a-a9c708f976fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>switcher--passport-field</value>
+      <webElementGuid>7e834320-4d6e-42de-bbf0-fedf9e1b0853</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label passport</value>
+      <webElementGuid>646924f1-9efd-4a48-8e41-7b23de0e6e73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Passport
+</value>
+      <webElementGuid>b0f1c287-1fb0-4bce-b49a-2fc0ff6a229c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-validate&quot;)/fieldset[@class=&quot;fieldset create info&quot;]/div[@class=&quot;field field-switcher&quot;]/div[@class=&quot;field choice&quot;]/label[@class=&quot;label passport&quot;]</value>
+      <webElementGuid>e90989d2-e6bc-4e38-9028-763b7b2fb2e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-validate']/fieldset/div[5]/div[2]/label</value>
+      <webElementGuid>59430958-d691-44e8-949f-2cc241e8d00e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='South African ID'])[1]/following::label[1]</value>
+      <webElementGuid>d9670436-00bf-411b-981b-1e478a5df2bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identity Type'])[1]/following::label[2]</value>
+      <webElementGuid>61d24f5d-692f-4027-a97f-a4d70da4cae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Passport Number'])[1]/preceding::label[1]</value>
+      <webElementGuid>fbb619dd-86dc-4f29-96d3-8540dfc4385b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/label</value>
+      <webElementGuid>70ae4a1b-b0bb-40d9-85b3-488ec6aa690b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+Passport
+' or . = '
+Passport
+')]</value>
+      <webElementGuid>298ae114-af0d-4fb5-8d68-dc9ecb59154e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

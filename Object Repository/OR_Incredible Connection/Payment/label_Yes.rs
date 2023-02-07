@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Yes</name>
+   <tag></tag>
+   <elementGuidId>618858f0-3218-423b-92c8-8ce314ff1e7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='creditApplicationForm.basicDetails__fieldset']/div/div/ol/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1f842e1b-c13b-4206-b927-f665fd7e213c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>543a7d18-aa7d-479e-9ba6-d53c27bc758e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>attr: { for: $parent.getId(field.key, 'yes') }</value>
+      <webElementGuid>586f0da3-55ef-4a49-a3a7-58c8b3e49787</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>creditApplicationForm__administration_order_subject--yes</value>
+      <webElementGuid>2561e598-fa2c-4e6d-ba21-b21976c96bde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Yes
+</value>
+      <webElementGuid>36d01663-389a-4ab4-bf86-64e62afd5fd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;creditApplicationForm.basicDetails__fieldset&quot;)/div[@class=&quot;fieldset fieldset-content&quot;]/div[@class=&quot;field field-switcher administration_order_subject&quot;]/ol[@class=&quot;control&quot;]/div[@class=&quot;field choice choice__yes&quot;]/label[@class=&quot;label&quot;]</value>
+      <webElementGuid>a082e61e-a92e-44be-9c22-944b2ef8aeda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='creditApplicationForm.basicDetails__fieldset']/div/div/ol/div/label</value>
+      <webElementGuid>63a7169f-0a2b-41cf-9d97-d02f5b30b5b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you subject to an Administration Order?'])[1]/following::label[1]</value>
+      <webElementGuid>383f613b-1212-4ce6-a445-9984f1713968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Basic Details'])[2]/following::label[1]</value>
+      <webElementGuid>32377603-4644-4ee1-be86-c5c58b772d35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::label[1]</value>
+      <webElementGuid>4de6e92b-11b0-4cfa-ae75-07d9d42b66e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>e58dc1c8-da92-4082-b457-99150a5b3f5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+Yes
+' or . = '
+Yes
+')]</value>
+      <webElementGuid>3d556176-b700-446f-a482-0bd8b9c4f6a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -59,6 +59,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Pricing/li_American Samoa_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/OR_Incredible Connection/Forgot Password/a_Sign In",
+      "brokenLocator": "//ul[@id\u003d\u0027header-slideout--0\u0027]/div/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Sign In\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/OR_Incredible Connection/Forgot Password/a_Sign In_link.png"
     }
   ]
 }

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_First name_first_names</name>
+   <tag></tag>
+   <elementGuidId>5804078b-a4b3-4b22-9700-7253bf6b5fac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#creditApplicationForm__first_names</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='creditApplicationForm__first_names']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3fd249a0-4db3-44be-b611-be349cb5d34f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>7b7c5122-d474-4a48-a332-7ee029405c71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-text</value>
+      <webElementGuid>2ef9cd89-0a06-4a80-9e85-808696680496</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>
+                   attr: $parent.getAttributes(field.value, {
+                       title: field.value.label,
+                       id: $parent.getId(field.key),
+                       name: field.key,
+                       placeholder: field.value.placeholder,
+                       autocomplete: field.value.autocomplete
+                   }),
+                   value: $parent.prepopulateField(field.key)
+               , afterRender: $parent.fieldReady.bind($parent)</value>
+      <webElementGuid>8e7c5843-da11-4b2f-bc3e-c38aa07d2ec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>First name</value>
+      <webElementGuid>ca6a072a-3f2c-49f2-8e2c-bacfcbeb3ad3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>creditApplicationForm__first_names</value>
+      <webElementGuid>011886c3-8064-44f4-bd3f-694840b823bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>first_names</value>
+      <webElementGuid>28739089-3b4a-4721-8664-fff9c4848ae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6a810287-500d-4d90-aa5c-68e9e5434801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-validate</name>
+      <type>Main</type>
+      <value>{&quot;validate-alphanum-with-spaces&quot;:true,&quot;required&quot;:true}</value>
+      <webElementGuid>5d93a398-1059-40da-8440-05074518b426</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-validate-default</name>
+      <type>Main</type>
+      <value>{&quot;validate-alphanum-with-spaces&quot;:true,&quot;required&quot;:true}</value>
+      <webElementGuid>d2f03774-cbda-434b-8c0b-87febaa71216</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;creditApplicationForm__first_names&quot;)</value>
+      <webElementGuid>35f3520c-9859-40e3-b4c1-4867d7251787</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='creditApplicationForm__first_names']</value>
+      <webElementGuid>7d7634be-7bcf-42a9-aa3e-5596ef5da80f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='creditApplicationForm.basicDetails__fieldset']/div/div[9]/div/input</value>
+      <webElementGuid>b3f07ac6-2fd0-48dc-95da-eb8317d443b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/input</value>
+      <webElementGuid>3a81b1fb-b02c-4a7c-9e11-0e800ea06c4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @title = 'First name' and @id = 'creditApplicationForm__first_names' and @name = 'first_names']</value>
+      <webElementGuid>cd33e7eb-2a3e-40ee-b7b9-b6f0ec02cc99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

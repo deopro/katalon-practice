@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Incredible online account</name>
+   <tag></tag>
+   <elementGuidId>b9cce251-0c3e-4b3f-ad7c-0e9985aa6105</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div/div/div[2]/div/div/div/div/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d4cb80ee-c96b-4ff1-afde-8f8be57352a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.incredible.co.za/services/help-centre/online-account</value>
+      <webElementGuid>dcd3bce1-0351-4d14-819c-3932179d9153</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Incredible online account</value>
+      <webElementGuid>9ff9b873-8654-4ce4-9fa5-10b25d45f476</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[2]/div[1]/div[@class=&quot;pagebuilder-column-group&quot;]/div[@class=&quot;pagebuilder-column&quot;]/div[1]/ul[@class=&quot;help-centre-links&quot;]/li[3]/a[1]</value>
+      <webElementGuid>8c874c2b-549a-43db-884d-9a9a9ba80935</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div/div/div[2]/div/div/div/div/ul/li[3]/a</value>
+      <webElementGuid>fe3cdcb7-1196-4351-b389-4af75953dd14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Incredible online account')]</value>
+      <webElementGuid>2c30bbb5-6aba-4b44-8b29-c280640f726e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Repairs, exchanges and returns'])[1]/following::a[1]</value>
+      <webElementGuid>1ec383e5-36ce-4d25-9e37-88da9a0f76f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Questions &amp; Answers'])[1]/following::a[2]</value>
+      <webElementGuid>dd9ff1c7-3483-4d93-93f6-479a28df8721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click &amp; Collect'])[1]/preceding::a[1]</value>
+      <webElementGuid>34fbeb5a-df59-4b3f-b05e-bc2eb51820a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trade-in your Device'])[1]/preceding::a[2]</value>
+      <webElementGuid>00dcc6bf-3047-4c5e-ae7c-f3d550408165</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Incredible online account']/parent::*</value>
+      <webElementGuid>5cd2c460-4cc1-45a3-a8c5-b7450e88cd80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.incredible.co.za/services/help-centre/online-account')]</value>
+      <webElementGuid>55077fce-14ff-4576-bfc4-3ee2134a966d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/ul/li[3]/a</value>
+      <webElementGuid>617e7cfa-366b-4951-9795-35229d26bc17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.incredible.co.za/services/help-centre/online-account' and (text() = 'My Incredible online account' or . = 'My Incredible online account')]</value>
+      <webElementGuid>2690390f-a1f2-43d4-81cb-53e344858473</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

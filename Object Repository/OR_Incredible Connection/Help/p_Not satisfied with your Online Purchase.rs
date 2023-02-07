@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Not satisfied with your Online Purchase</name>
+   <tag></tag>
+   <elementGuidId>50112fa6-0d5a-4236-8f27-d7c915d86b94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.ic-return-headone</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div/div/div[2]/div/div/div[2]/div/div/div/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ff9d25b2-a66a-4be2-8d22-5f55e98ef5e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ic-return-headone</value>
+      <webElementGuid>a3f8a707-32f2-44e6-a0e5-5fd6b27756e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Not satisfied with your Online Purchase?</value>
+      <webElementGuid>ed5a30ba-f15a-412d-8594-71d1bae900d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[2]/div[1]/div[@class=&quot;pagebuilder-column-group&quot;]/div[@class=&quot;pagebuilder-column&quot;]/div[1]/div[@class=&quot;ic-return-one&quot;]/div[@class=&quot;ic-return-containerone&quot;]/p[@class=&quot;ic-return-headone&quot;]</value>
+      <webElementGuid>b2149e93-8a17-4b73-9638-48784acfaadf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div/div/div[2]/div/div/div[2]/div/div/div/p[2]</value>
+      <webElementGuid>8cd80cea-5c38-42de-a127-ddaa27c27440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Returns and Refunds'])[1]/following::p[2]</value>
+      <webElementGuid>39f1b9f2-c0ff-46af-adc1-03a8699681dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::p[2]</value>
+      <webElementGuid>103171aa-c737-4ed5-ae4b-fda5dcb914b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refunds'])[1]/preceding::p[4]</value>
+      <webElementGuid>b8515f70-cb35-4862-99db-62a0a765cecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>f21d484e-b212-47dd-b55d-daabd331259d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Not satisfied with your Online Purchase?' or . = 'Not satisfied with your Online Purchase?')]</value>
+      <webElementGuid>0c45f825-3d3a-421d-9506-48203d277098</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

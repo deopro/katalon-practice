@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Click  Collect</name>
+   <tag></tag>
+   <elementGuidId>ae7c1e68-dd51-49c7-a23f-b7726b861fb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div/div/div[2]/div/div/div/div/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ff0a9e40-3b2e-4de6-bb0b-eb4906aad36c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.incredible.co.za/services/help-centre/click-and-collect</value>
+      <webElementGuid>64c09f23-579e-4804-b243-7143811f8c3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>12e7ece8-ca57-4305-9554-bfd2431c5df6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click &amp; Collect</value>
+      <webElementGuid>0fc2fd65-9997-4f95-83ff-b683d8480952</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[2]/div[1]/div[@class=&quot;pagebuilder-column-group&quot;]/div[@class=&quot;pagebuilder-column&quot;]/div[1]/ul[@class=&quot;help-centre-links&quot;]/li[4]/a[1]</value>
+      <webElementGuid>70f8da82-dcff-40e3-bad4-ca5268261d9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div/div/div[2]/div/div/div/div/ul/li[4]/a</value>
+      <webElementGuid>37309c91-3056-483e-9c10-d3effbdbd310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Click &amp; Collect')]</value>
+      <webElementGuid>6c32029a-7992-4165-944b-f1bab769636a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Incredible online account'])[1]/following::a[1]</value>
+      <webElementGuid>9e6503ae-c2e5-446e-ba42-0e4be2febbb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Repairs, exchanges and returns'])[1]/following::a[2]</value>
+      <webElementGuid>2f909f9e-6b07-413f-96ef-6efd9fadea58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trade-in your Device'])[1]/preceding::a[1]</value>
+      <webElementGuid>f1032bc3-1cf6-4f22-9f93-455918f5787f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Returns and Refunds'])[1]/preceding::a[2]</value>
+      <webElementGuid>055a376d-4e9a-4454-944f-9a40c0c38b5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click &amp; Collect']/parent::*</value>
+      <webElementGuid>b49d0b10-df38-4679-be02-97c34444839f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.incredible.co.za/services/help-centre/click-and-collect')]</value>
+      <webElementGuid>7db4b026-84a3-40eb-9a28-42319bb431a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/ul/li[4]/a</value>
+      <webElementGuid>76ac277c-0c7c-4066-9391-3e5d2002796d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.incredible.co.za/services/help-centre/click-and-collect' and (text() = 'Click &amp; Collect' or . = 'Click &amp; Collect')]</value>
+      <webElementGuid>4b9fbe75-5546-4735-a9f9-07e9d2e0e249</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

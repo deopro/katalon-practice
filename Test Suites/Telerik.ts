@@ -43,7 +43,7 @@
       <guid>1c5d5196-4497-4357-8edd-cfdc04bb5aa8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Telerik/desassete</testCaseId>
+      <testCaseId>Test Cases/Telerik/Platinaline</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -57,14 +57,14 @@
       <guid>4a3cec22-c775-40af-b4ba-5aaa5ac78dcf</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Telerik/dez</testCaseId>
+      <testCaseId>Test Cases/Telerik/Noticias</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>de8e4f86-e0bb-4967-b9fe-759a3c9e0caf</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Telerik/dois</testCaseId>
+      <testCaseId>Test Cases/Telerik/DPKF Music</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -99,7 +99,7 @@
       <guid>77ba868d-bb42-4af8-9ebf-b5f9138420ac</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Telerik/quatro</testCaseId>
+      <testCaseId>Test Cases/Telerik/Koffie Luso</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
