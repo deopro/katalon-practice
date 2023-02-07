@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>780b0f9e-52ac-4722-b3f6-3fbf026b7489</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ic-brandone > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div/div/div[2]/div[2]/div/div/div/a/span/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>620374f5-0017-4f4f-94af-4e6bab54ba01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.incredible.co.za/media/wysiwyg/IC_home_page/Microsoft_BLP.png</value>
+      <webElementGuid>78bdef73-214d-424d-abe4-afce56a36eca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;category-view&quot;]/div[@class=&quot;category-cms&quot;]/div[1]/div[@class=&quot;row-full-width-inner&quot;]/div[1]/a[@class=&quot;zoom-effect&quot;]/span[@class=&quot;ic-brandone&quot;]/img[1]</value>
+      <webElementGuid>1380b321-fcea-4e9c-a7b5-1e5d24b9c3ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div/div/div[2]/div[2]/div/div/div/a/span/img</value>
+      <webElementGuid>aec7a9a9-126c-4d8a-90e9-25519b3795b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://www.incredible.co.za/media/wysiwyg/IC_home_page/Microsoft_BLP.png')]</value>
+      <webElementGuid>28324e68-3f65-4dec-ab39-6aa1b7d88824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/img</value>
+      <webElementGuid>811d843b-6d3a-45d8-9c5c-b4c47dbea7b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://www.incredible.co.za/media/wysiwyg/IC_home_page/Microsoft_BLP.png']</value>
+      <webElementGuid>63895fa0-cb44-4654-af21-8c291124438b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

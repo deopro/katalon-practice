@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Telerik" time="415.102" tests="19" failures="0" errors="0">
+   <testsuite name="Telerik" tests="19" failures="0" errors="0" time="415.102" skipped="0" timestamp="2023-02-07 22:04:49" hostname="Admin - DEOLINDO.home" id="Test Suites/Telerik">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Admin\\Katalon Studio\\katalon-practice (1)\\Reports\\20230207_220404\\Telerik\\20230207_220411"/>
+         <property name="logFiles" value="C:\\Users\\Admin\\Katalon Studio\\katalon-practice (1)\\Reports\\20230207_220404\\Telerik\\20230207_220411\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Admin - DEOLINDO.home"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 109.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.171"/>
+         <property name="sessionId" value="26a0f544d10d761d028329112374ff2e"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Telerik/catorze" time="66.526" classname="Test Cases/Telerik/catorze" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:04:50 - [TEST_CASE][PASSED] - Test Cases/Telerik/catorze: Test Cases/Telerik/catorze
+
+2023-02-07 22:04:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:04:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:04:55 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:05:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:05:14 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:05:57 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/cinco" time="30.222" classname="Test Cases/Telerik/cinco" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:05:57 - [TEST_CASE][PASSED] - Test Cases/Telerik/cinco: Test Cases/Telerik/cinco
+
+2023-02-07 22:05:59 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:05:59 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:06:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:06:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:06:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:06:16 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:06:27 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/desanove" time="14.52" classname="Test Cases/Telerik/desanove" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:06:27 - [TEST_CASE][PASSED] - Test Cases/Telerik/desanove: Test Cases/Telerik/desanove
+
+2023-02-07 22:06:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:06:28 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:06:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:06:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:06:35 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:06:35 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:06:42 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/desasseis" time="12.687" classname="Test Cases/Telerik/desasseis" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:06:42 - [TEST_CASE][PASSED] - Test Cases/Telerik/desasseis: Test Cases/Telerik/desasseis
+
+2023-02-07 22:06:43 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:06:43 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:06:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:06:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:06:48 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:06:48 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:06:54 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/Platinaline" time="17.462" classname="Test Cases/Telerik/Platinaline" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:06:54 - [TEST_CASE][PASSED] - Test Cases/Telerik/Platinaline: Test Cases/Telerik/Platinaline
+
+2023-02-07 22:06:56 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:06:56 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:06:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:06:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:07:00 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:07:00 - [TEST_STEP][PASSED] - navigateToUrl("http://platinaline.com/"): Navigate to 'http://platinaline.com/' successfully
+
+2023-02-07 22:07:12 - [MESSAGE][PASSED] - Navigate to 'http://platinaline.com/' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/desoito" time="15.754" classname="Test Cases/Telerik/desoito" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:07:12 - [TEST_CASE][PASSED] - Test Cases/Telerik/desoito: Test Cases/Telerik/desoito
+
+2023-02-07 22:07:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:07:13 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:07:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:07:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:07:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:07:18 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:07:28 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/Noticias" time="56.808" classname="Test Cases/Telerik/Noticias" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:07:28 - [TEST_CASE][PASSED] - Test Cases/Telerik/Noticias: Test Cases/Telerik/Noticias
+
+2023-02-07 22:07:29 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:07:29 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:07:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:07:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:07:34 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:07:34 - [TEST_STEP][PASSED] - navigateToUrl("https://koffieluso.com/"): Navigate to 'https://koffieluso.com/' successfully
+
+2023-02-07 22:07:54 - [MESSAGE][PASSED] - Navigate to 'https://koffieluso.com/' successfully
+
+2023-02-07 22:07:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Koffie Luso/a_Atualidade")): Object: 'Object Repository/Koffie Luso/a_Atualidade' is clicked on
+
+2023-02-07 22:08:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Koffie Luso/a_Atualidade' is clicked on
+
+2023-02-07 22:08:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Koffie Luso/a_RAZES, lbum de estreia de Dj Ritchelly")): Object: 'Object Repository/Koffie Luso/a_RAZES, lbum de estreia de Dj Ritchelly' is clicked on
+
+2023-02-07 22:08:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Koffie Luso/a_RAZES, lbum de estreia de Dj Ritchelly' is clicked on
+
+2023-02-07 22:08:22 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-02-07 22:08:24 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/DPKF Music" time="34.48" classname="Test Cases/Telerik/DPKF Music" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:08:24 - [TEST_CASE][PASSED] - Test Cases/Telerik/DPKF Music: Test Cases/Telerik/DPKF Music
+
+2023-02-07 22:08:25 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:08:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:08:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:08:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:08:29 - [TEST_STEP][PASSED] - navigateToUrl("https://www.dpkfmusic.com/"): Navigate to 'https://www.dpkfmusic.com/' successfully
+
+2023-02-07 22:08:59 - [MESSAGE][PASSED] - Navigate to 'https://www.dpkfmusic.com/' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/dose" time="12.151" classname="Test Cases/Telerik/dose" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:08:59 - [TEST_CASE][PASSED] - Test Cases/Telerik/dose: Test Cases/Telerik/dose
+
+2023-02-07 22:09:01 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:09:01 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:09:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:09:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:09:05 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:09:05 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:09:11 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/nove" time="13.17" classname="Test Cases/Telerik/nove" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:09:11 - [TEST_CASE][PASSED] - Test Cases/Telerik/nove: Test Cases/Telerik/nove
+
+2023-02-07 22:09:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:09:13 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:09:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:09:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:09:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:09:19 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:09:24 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/oito" time="11.48" classname="Test Cases/Telerik/oito" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:09:24 - [TEST_CASE][PASSED] - Test Cases/Telerik/oito: Test Cases/Telerik/oito
+
+2023-02-07 22:09:26 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:09:26 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:09:27 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:09:27 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:09:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:09:30 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:09:36 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/onze" time="11.681" classname="Test Cases/Telerik/onze" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:09:36 - [TEST_CASE][PASSED] - Test Cases/Telerik/onze: Test Cases/Telerik/onze
+
+2023-02-07 22:09:37 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:09:37 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:09:39 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:09:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:09:42 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:09:42 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:09:47 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/Koffie Luso" time="19.6" classname="Test Cases/Telerik/Koffie Luso" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:09:48 - [TEST_CASE][PASSED] - Test Cases/Telerik/Koffie Luso: Test Cases/Telerik/Koffie Luso
+
+2023-02-07 22:09:49 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:09:49 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:09:50 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:09:50 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:09:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:09:53 - [TEST_STEP][PASSED] - navigateToUrl("https://koffieluso.com/"): Navigate to 'https://koffieluso.com/' successfully
+
+2023-02-07 22:10:07 - [MESSAGE][PASSED] - Navigate to 'https://koffieluso.com/' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/quinze" time="11.264" classname="Test Cases/Telerik/quinze" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:10:07 - [TEST_CASE][PASSED] - Test Cases/Telerik/quinze: Test Cases/Telerik/quinze
+
+2023-02-07 22:10:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:10:08 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:10:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:10:09 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:10:13 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:10:13 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:10:18 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/seis" time="14.163" classname="Test Cases/Telerik/seis" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:10:18 - [TEST_CASE][PASSED] - Test Cases/Telerik/seis: Test Cases/Telerik/seis
+
+2023-02-07 22:10:21 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:10:21 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:10:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:10:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:10:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:10:26 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:10:33 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/sete" time="18.363" classname="Test Cases/Telerik/sete" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:10:33 - [TEST_CASE][PASSED] - Test Cases/Telerik/sete: Test Cases/Telerik/sete
+
+2023-02-07 22:10:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:10:34 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:10:36 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:10:36 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:10:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:10:39 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:10:51 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/tres" time="19.756" classname="Test Cases/Telerik/tres" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:10:51 - [TEST_CASE][PASSED] - Test Cases/Telerik/tres: Test Cases/Telerik/tres
+
+2023-02-07 22:10:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:10:53 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:10:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:10:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:10:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:10:59 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:11:11 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/treze" time="19.589" classname="Test Cases/Telerik/treze" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:11:11 - [TEST_CASE][PASSED] - Test Cases/Telerik/treze: Test Cases/Telerik/treze
+
+2023-02-07 22:11:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:11:12 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:11:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:11:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:11:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:11:16 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:11:30 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/um" time="13.433" classname="Test Cases/Telerik/um" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:11:30 - [TEST_CASE][PASSED] - Test Cases/Telerik/um: Test Cases/Telerik/um
+
+2023-02-07 22:11:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:11:32 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:11:35 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:11:35 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:11:38 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:11:38 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:11:44 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-02-07 22:04:49 - [TEST_SUITE][PASSED] - Telerik: Test Cases/Telerik/um]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -69,6 +69,76 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/OR_Incredible Connection/Forgot Password/a_Sign In_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/OR_Incredible Connection/Voucher/input_First Name_field149",
+      "brokenLocator": "//input[@id\u003d\u0027fieldHyd5vw149\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/OR_Incredible Connection/Voucher/input_First Name_field149_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/OR_Incredible Connection/Voucher/input_CellPhone_field150",
+      "brokenLocator": "//input[@id\u003d\u0027fieldHyd5vw150\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/OR_Incredible Connection/Voucher/input_CellPhone_field150_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/OR_Incredible Connection/Voucher/input_Last name_field151",
+      "brokenLocator": "//input[@id\u003d\u0027fieldHyd5vw151\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/OR_Incredible Connection/Voucher/input_Last name_field151_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/OR_Incredible Connection/Voucher/input_Street Address_field152",
+      "brokenLocator": "//input[@id\u003d\u0027fieldHyd5vw152\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[4]/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/OR_Incredible Connection/Voucher/input_Street Address_field152_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/OR_Incredible Connection/Voucher/input_E-mail Address_field153",
+      "brokenLocator": "//input[@id\u003d\u0027fieldHyd5vw153\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[5]/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/OR_Incredible Connection/Voucher/input_E-mail Address_field153_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/OR_Incredible Connection/Voucher/span_Submit",
+      "brokenLocator": "//button[@id\u003d\u0027webform_Hyd5vw_submit_button\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027I accept Terms \u0026 Conditions\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/OR_Incredible Connection/Voucher/span_Submit_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/OR_Incredible Connection/Voucher/div_This is a required field",
+      "brokenLocator": "//div[@id\u003d\u0027advice-required-entry-fieldHyd5vw155\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027RSA ID / Passport Number\u0027])[1]/following::div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/OR_Incredible Connection/Voucher/div_This is a required field_neighbor.png"
     }
   ]
 }

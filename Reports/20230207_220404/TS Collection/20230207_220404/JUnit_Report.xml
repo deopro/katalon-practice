@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS Collection" time="441.755" tests="23" failures="0" errors="0">
+   <testsuite name="LoginandBooking" tests="2" failures="0" errors="0" time="107.706" skipped="0" timestamp="2023-02-07 22:04:26" hostname="Admin - DEOLINDO.home" id="Test Suites/LoginandBooking">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Admin\\Katalon Studio\\katalon-practice (1)\\Reports\\20230207_220404\\LoginandBooking\\20230207_220406"/>
+         <property name="logFiles" value="C:\\Users\\Admin\\Katalon Studio\\katalon-practice (1)\\Reports\\20230207_220404\\LoginandBooking\\20230207_220406\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Admin - DEOLINDO.home"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 109.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.171"/>
+         <property name="sessionId" value="31b470dc154362f29ee4c4b16eea2b4b"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Demo Project/Login" time="37.755" classname="Test Cases/Demo Project/Login" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:04:27 - [TEST_CASE][PASSED] - Test Cases/Demo Project/Login: Test Cases/Demo Project/Login
+
+2023-02-07 22:04:29 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:04:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:04:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:04:42 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:04:42 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+2023-02-07 22:04:50 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+2023-02-07 22:04:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Make Appointment")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2023-02-07 22:04:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2023-02-07 22:04:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Username_username"), "John Doe"): Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+2023-02-07 22:04:57 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+2023-02-07 22:04:57 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Password_password"), "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"): Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+2023-02-07 22:05:00 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+2023-02-07 22:05:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/button_Login")): Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2023-02-07 22:05:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Demo Project/BookingAnAppointment" time="68.96" classname="Test Cases/Demo Project/BookingAnAppointment" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:05:04 - [TEST_CASE][PASSED] - Test Cases/Demo Project/BookingAnAppointment: Test Cases/Demo Project/BookingAnAppointment
+
+2023-02-07 22:05:06 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Demo Project/Login"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Demo Project/Login' successfully
+
+2023-02-07 22:05:06 - [TEST_CASE][PASSED] - Test Cases/Demo Project/Login: Test Cases/Demo Project/Login
+
+2023-02-07 22:05:07 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:05:07 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:05:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:05:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:05:28 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:05:28 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+2023-02-07 22:05:57 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+2023-02-07 22:05:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Make Appointment")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2023-02-07 22:05:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2023-02-07 22:05:59 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Username_username"), "John Doe"): Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+2023-02-07 22:06:01 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+2023-02-07 22:06:01 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Password_password"), "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"): Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+2023-02-07 22:06:02 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+2023-02-07 22:06:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/button_Login")): Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2023-02-07 22:06:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2023-02-07 22:06:03 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Demo Project/Login' successfully
+
+2023-02-07 22:06:03 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107"), "Hongkong CURA Healthcare Center", true): All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'  using regular expression
+
+2023-02-07 22:06:07 - [MESSAGE][PASSED] - All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'  using regular expression
+
+2023-02-07 22:06:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f")): Object: 'Object Repository/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f' is clicked on
+
+2023-02-07 22:06:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f' is clicked on
+
+2023-02-07 22:06:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Medicaid_programs")): Object: 'Object Repository/Page_CURA Healthcare Service/input_Medicaid_programs' is clicked on
+
+2023-02-07 22:06:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_Medicaid_programs' is clicked on
+
+2023-02-07 22:06:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date")): Object: 'Object Repository/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date' is clicked on
+
+2023-02-07 22:06:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date' is clicked on
+
+2023-02-07 22:06:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/td_31")): Object: 'Object Repository/Page_CURA Healthcare Service/td_31' is clicked on
+
+2023-02-07 22:06:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/td_31' is clicked on
+
+2023-02-07 22:06:10 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment"), "Practicing automation testing"): Text 'Practicing automation testing' is set on object 'Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment'
+
+2023-02-07 22:06:11 - [MESSAGE][PASSED] - Text 'Practicing automation testing' is set on object 'Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment'
+
+2023-02-07 22:06:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/button_Book Appointment")): Object: 'Object Repository/Page_CURA Healthcare Service/button_Book Appointment' is clicked on
+
+2023-02-07 22:06:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Book Appointment' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-02-07 22:04:26 - [TEST_SUITE][PASSED] - LoginandBooking: Test Cases/Demo Project/BookingAnAppointment]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="SwagLabs" tests="2" failures="0" errors="0" time="72.511" skipped="0" timestamp="2023-02-07 22:04:37" hostname="Admin - DEOLINDO.home" id="Test Suites/SwagLabs">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Admin\\Katalon Studio\\katalon-practice (1)\\Reports\\20230207_220404\\SwagLabs\\20230207_220408"/>
+         <property name="logFiles" value="C:\\Users\\Admin\\Katalon Studio\\katalon-practice (1)\\Reports\\20230207_220404\\SwagLabs\\20230207_220408\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Admin - DEOLINDO.home"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 109.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.171"/>
+         <property name="sessionId" value="4e5cc75752438d12b5894d5dcc062684"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/SwagLabs Demo/Login" time="50.578" classname="Test Cases/SwagLabs Demo/Login" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:04:39 - [TEST_CASE][PASSED] - Test Cases/SwagLabs Demo/Login: Test Cases/SwagLabs Demo/Login
+
+2023-02-07 22:04:43 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:04:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:04:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:04:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:04:58 - [TEST_STEP][PASSED] - navigateToUrl("https://www.saucedemo.com/"): Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-02-07 22:05:21 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-02-07 22:05:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_8f3e31"), "standard_user"): Text 'standard_user' is set on object 'Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_8f3e31'
+
+2023-02-07 22:05:23 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_8f3e31'
+
+2023-02-07 22:05:23 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_a82549"), "qcu24s4901FyWDTwXGr6XA=="): Text ****** has been set on object 'Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_a82549'
+
+2023-02-07 22:05:25 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_a82549'
+
+2023-02-07 22:05:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_eeff57")): Object: 'Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_eeff57' is clicked on
+
+2023-02-07 22:05:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_eeff57' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SwagLabs Demo/Purchase" time="20.287" classname="Test Cases/SwagLabs Demo/Purchase" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:05:30 - [TEST_CASE][PASSED] - Test Cases/SwagLabs Demo/Purchase: Test Cases/SwagLabs Demo/Purchase
+
+2023-02-07 22:05:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/button_Add to cart")): Object: 'Object Repository/Page_Swag Labs/button_Add to cart' is clicked on
+
+2023-02-07 22:05:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/button_Add to cart' is clicked on
+
+2023-02-07 22:05:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/button_Add to cart_1")): Object: 'Object Repository/Page_Swag Labs/button_Add to cart_1' is clicked on
+
+2023-02-07 22:05:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/button_Add to cart_1' is clicked on
+
+2023-02-07 22:05:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/button_Add to cart_1_2")): Object: 'Object Repository/Page_Swag Labs/button_Add to cart_1_2' is clicked on
+
+2023-02-07 22:05:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/button_Add to cart_1_2' is clicked on
+
+2023-02-07 22:05:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/span_3")): Object: 'Object Repository/Page_Swag Labs/span_3' is clicked on
+
+2023-02-07 22:05:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/span_3' is clicked on
+
+2023-02-07 22:05:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/button_Remove")): Object: 'Object Repository/Page_Swag Labs/button_Remove' is clicked on
+
+2023-02-07 22:05:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/button_Remove' is clicked on
+
+2023-02-07 22:05:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/button_Checkout")): Object: 'Object Repository/Page_Swag Labs/button_Checkout' is clicked on
+
+2023-02-07 22:05:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/button_Checkout' is clicked on
+
+2023-02-07 22:05:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Swag Labs/input_Checkout Your Information_firstName"), "Deo"): Text 'Deo' is set on object 'Object Repository/Page_Swag Labs/input_Checkout Your Information_firstName'
+
+2023-02-07 22:05:43 - [MESSAGE][PASSED] - Text 'Deo' is set on object 'Object Repository/Page_Swag Labs/input_Checkout Your Information_firstName'
+
+2023-02-07 22:05:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Swag Labs/input_Checkout Your Information_lastName"), "Pro"): Text 'Pro' is set on object 'Object Repository/Page_Swag Labs/input_Checkout Your Information_lastName'
+
+2023-02-07 22:05:45 - [MESSAGE][PASSED] - Text 'Pro' is set on object 'Object Repository/Page_Swag Labs/input_Checkout Your Information_lastName'
+
+2023-02-07 22:05:45 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Swag Labs/input_Checkout Your Information_postalCode"), "2026"): Text '2026' is set on object 'Object Repository/Page_Swag Labs/input_Checkout Your Information_postalCode'
+
+2023-02-07 22:05:46 - [MESSAGE][PASSED] - Text '2026' is set on object 'Object Repository/Page_Swag Labs/input_Checkout Your Information_postalCode'
+
+2023-02-07 22:05:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/input_Cancel_continue")): Object: 'Object Repository/Page_Swag Labs/input_Cancel_continue' is clicked on
+
+2023-02-07 22:05:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/input_Cancel_continue' is clicked on
+
+2023-02-07 22:05:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/button_Finish")): Object: 'Object Repository/Page_Swag Labs/button_Finish' is clicked on
+
+2023-02-07 22:05:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/button_Finish' is clicked on
+
+2023-02-07 22:05:49 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Swag Labs/h2_THANK YOU FOR YOUR ORDER"), "THANK YOU FOR YOUR ORDER"): Actual text and expected text of test object 'Object Repository/Page_Swag Labs/h2_THANK YOU FOR YOUR ORDER' are matched.
+
+2023-02-07 22:05:50 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Swag Labs/h2_THANK YOU FOR YOUR ORDER' are matched.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-02-07 22:04:37 - [TEST_SUITE][PASSED] - SwagLabs: Test Cases/SwagLabs Demo/Purchase]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="Telerik" tests="19" failures="0" errors="0" time="415.102" skipped="0" timestamp="2023-02-07 22:04:49" hostname="Admin - DEOLINDO.home" id="Test Suites/Telerik">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Admin\\Katalon Studio\\katalon-practice (1)\\Reports\\20230207_220404\\Telerik\\20230207_220411"/>
+         <property name="logFiles" value="C:\\Users\\Admin\\Katalon Studio\\katalon-practice (1)\\Reports\\20230207_220404\\Telerik\\20230207_220411\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Admin - DEOLINDO.home"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 109.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.171"/>
+         <property name="sessionId" value="26a0f544d10d761d028329112374ff2e"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Telerik/catorze" time="66.526" classname="Test Cases/Telerik/catorze" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:04:50 - [TEST_CASE][PASSED] - Test Cases/Telerik/catorze: Test Cases/Telerik/catorze
+
+2023-02-07 22:04:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:04:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:04:55 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:05:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:05:14 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:05:57 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/cinco" time="30.222" classname="Test Cases/Telerik/cinco" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:05:57 - [TEST_CASE][PASSED] - Test Cases/Telerik/cinco: Test Cases/Telerik/cinco
+
+2023-02-07 22:05:59 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:05:59 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:06:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:06:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:06:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:06:16 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:06:27 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/desanove" time="14.52" classname="Test Cases/Telerik/desanove" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:06:27 - [TEST_CASE][PASSED] - Test Cases/Telerik/desanove: Test Cases/Telerik/desanove
+
+2023-02-07 22:06:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:06:28 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:06:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:06:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:06:35 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:06:35 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:06:42 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/desasseis" time="12.687" classname="Test Cases/Telerik/desasseis" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:06:42 - [TEST_CASE][PASSED] - Test Cases/Telerik/desasseis: Test Cases/Telerik/desasseis
+
+2023-02-07 22:06:43 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:06:43 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:06:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:06:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:06:48 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:06:48 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:06:54 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/Platinaline" time="17.462" classname="Test Cases/Telerik/Platinaline" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:06:54 - [TEST_CASE][PASSED] - Test Cases/Telerik/Platinaline: Test Cases/Telerik/Platinaline
+
+2023-02-07 22:06:56 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:06:56 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:06:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:06:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:07:00 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:07:00 - [TEST_STEP][PASSED] - navigateToUrl("http://platinaline.com/"): Navigate to 'http://platinaline.com/' successfully
+
+2023-02-07 22:07:12 - [MESSAGE][PASSED] - Navigate to 'http://platinaline.com/' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/desoito" time="15.754" classname="Test Cases/Telerik/desoito" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:07:12 - [TEST_CASE][PASSED] - Test Cases/Telerik/desoito: Test Cases/Telerik/desoito
+
+2023-02-07 22:07:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:07:13 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:07:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:07:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:07:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:07:18 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:07:28 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/Noticias" time="56.808" classname="Test Cases/Telerik/Noticias" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:07:28 - [TEST_CASE][PASSED] - Test Cases/Telerik/Noticias: Test Cases/Telerik/Noticias
+
+2023-02-07 22:07:29 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:07:29 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:07:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:07:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:07:34 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:07:34 - [TEST_STEP][PASSED] - navigateToUrl("https://koffieluso.com/"): Navigate to 'https://koffieluso.com/' successfully
+
+2023-02-07 22:07:54 - [MESSAGE][PASSED] - Navigate to 'https://koffieluso.com/' successfully
+
+2023-02-07 22:07:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Koffie Luso/a_Atualidade")): Object: 'Object Repository/Koffie Luso/a_Atualidade' is clicked on
+
+2023-02-07 22:08:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Koffie Luso/a_Atualidade' is clicked on
+
+2023-02-07 22:08:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Koffie Luso/a_RAZES, lbum de estreia de Dj Ritchelly")): Object: 'Object Repository/Koffie Luso/a_RAZES, lbum de estreia de Dj Ritchelly' is clicked on
+
+2023-02-07 22:08:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Koffie Luso/a_RAZES, lbum de estreia de Dj Ritchelly' is clicked on
+
+2023-02-07 22:08:22 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-02-07 22:08:24 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/DPKF Music" time="34.48" classname="Test Cases/Telerik/DPKF Music" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:08:24 - [TEST_CASE][PASSED] - Test Cases/Telerik/DPKF Music: Test Cases/Telerik/DPKF Music
+
+2023-02-07 22:08:25 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:08:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:08:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:08:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:08:29 - [TEST_STEP][PASSED] - navigateToUrl("https://www.dpkfmusic.com/"): Navigate to 'https://www.dpkfmusic.com/' successfully
+
+2023-02-07 22:08:59 - [MESSAGE][PASSED] - Navigate to 'https://www.dpkfmusic.com/' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/dose" time="12.151" classname="Test Cases/Telerik/dose" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:08:59 - [TEST_CASE][PASSED] - Test Cases/Telerik/dose: Test Cases/Telerik/dose
+
+2023-02-07 22:09:01 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:09:01 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:09:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:09:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:09:05 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:09:05 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:09:11 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/nove" time="13.17" classname="Test Cases/Telerik/nove" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:09:11 - [TEST_CASE][PASSED] - Test Cases/Telerik/nove: Test Cases/Telerik/nove
+
+2023-02-07 22:09:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:09:13 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:09:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:09:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:09:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:09:19 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:09:24 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/oito" time="11.48" classname="Test Cases/Telerik/oito" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:09:24 - [TEST_CASE][PASSED] - Test Cases/Telerik/oito: Test Cases/Telerik/oito
+
+2023-02-07 22:09:26 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:09:26 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:09:27 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:09:27 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:09:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:09:30 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:09:36 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/onze" time="11.681" classname="Test Cases/Telerik/onze" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:09:36 - [TEST_CASE][PASSED] - Test Cases/Telerik/onze: Test Cases/Telerik/onze
+
+2023-02-07 22:09:37 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:09:37 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:09:39 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:09:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:09:42 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:09:42 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:09:47 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/Koffie Luso" time="19.6" classname="Test Cases/Telerik/Koffie Luso" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:09:48 - [TEST_CASE][PASSED] - Test Cases/Telerik/Koffie Luso: Test Cases/Telerik/Koffie Luso
+
+2023-02-07 22:09:49 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:09:49 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:09:50 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:09:50 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:09:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:09:53 - [TEST_STEP][PASSED] - navigateToUrl("https://koffieluso.com/"): Navigate to 'https://koffieluso.com/' successfully
+
+2023-02-07 22:10:07 - [MESSAGE][PASSED] - Navigate to 'https://koffieluso.com/' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/quinze" time="11.264" classname="Test Cases/Telerik/quinze" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:10:07 - [TEST_CASE][PASSED] - Test Cases/Telerik/quinze: Test Cases/Telerik/quinze
+
+2023-02-07 22:10:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:10:08 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:10:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:10:09 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:10:13 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:10:13 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:10:18 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/seis" time="14.163" classname="Test Cases/Telerik/seis" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:10:18 - [TEST_CASE][PASSED] - Test Cases/Telerik/seis: Test Cases/Telerik/seis
+
+2023-02-07 22:10:21 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:10:21 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:10:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:10:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:10:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:10:26 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:10:33 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/sete" time="18.363" classname="Test Cases/Telerik/sete" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:10:33 - [TEST_CASE][PASSED] - Test Cases/Telerik/sete: Test Cases/Telerik/sete
+
+2023-02-07 22:10:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:10:34 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:10:36 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:10:36 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:10:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:10:39 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:10:51 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/tres" time="19.756" classname="Test Cases/Telerik/tres" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:10:51 - [TEST_CASE][PASSED] - Test Cases/Telerik/tres: Test Cases/Telerik/tres
+
+2023-02-07 22:10:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:10:53 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:10:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:10:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:10:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:10:59 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:11:11 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/treze" time="19.589" classname="Test Cases/Telerik/treze" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:11:11 - [TEST_CASE][PASSED] - Test Cases/Telerik/treze: Test Cases/Telerik/treze
+
+2023-02-07 22:11:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:11:12 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:11:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:11:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:11:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:11:16 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:11:30 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Telerik/um" time="13.433" classname="Test Cases/Telerik/um" status="PASSED">
+         <system-out><![CDATA[2023-02-07 22:11:30 - [TEST_CASE][PASSED] - Test Cases/Telerik/um: Test Cases/Telerik/um
+
+2023-02-07 22:11:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-07 22:11:32 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-02-07 22:11:35 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-07 22:11:35 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-07 22:11:38 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-07 22:11:38 - [TEST_STEP][PASSED] - navigateToUrl("https://www.telerik.com/support/demos"): Navigate to 'https://www.telerik.com/support/demos' successfully
+
+2023-02-07 22:11:44 - [MESSAGE][PASSED] - Navigate to 'https://www.telerik.com/support/demos' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-02-07 22:04:49 - [TEST_SUITE][PASSED] - Telerik: Test Cases/Telerik/um]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

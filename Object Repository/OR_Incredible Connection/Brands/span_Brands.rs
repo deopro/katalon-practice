@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Brands</name>
+   <tag></tag>
+   <elementGuidId>4c55aa5e-0e2f-40b3-8a9e-85bdf7eba937</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.v-navigation__link.v-navigation__link--level0.v-navigation__link--url-brands.v-navigation__link--nav-7 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-slideout--0']/nav/ul/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b1a1fded-f8b3-4e1a-96ec-21f130cec3d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Brands</value>
+      <webElementGuid>56f0aa75-5972-4388-a96a-fde0178a9e80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-slideout--0&quot;)/nav[@class=&quot;main-navigation&quot;]/ul[@class=&quot;v-navigation__main v-navigation__list&quot;]/li[@class=&quot;v-navigation__item v-navigation__item--level0 v-navigation__item--url-brands v-navigation__item--nav-7 category-item nav-7 v-navigation__item--column-0 open&quot;]/a[@class=&quot;v-navigation__link v-navigation__link--level0 v-navigation__link--url-brands v-navigation__link--nav-7&quot;]/span[1]</value>
+      <webElementGuid>f5dc320d-ea1b-4a47-916c-da3df0fb5011</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-slideout--0']/nav/ul/li[2]/a/span</value>
+      <webElementGuid>2e228c52-a273-4526-b9ec-b4aa4c6c332e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brands'])[1]/following::span[1]</value>
+      <webElementGuid>5aae4d46-9215-442a-8877-608ad185ee6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trolley Bags &amp; Spinners'])[1]/following::span[2]</value>
+      <webElementGuid>16211176-961e-4f39-b73c-fe074e8c3226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Options'])[1]/preceding::span[1]</value>
+      <webElementGuid>ef70a306-47a4-468a-a604-9957b5bb9c89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Star Gaming'])[1]/preceding::span[2]</value>
+      <webElementGuid>e185ec6e-6d60-4114-8580-89fc8e0c0d20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>e21bce6d-46c9-4882-bb86-4f7365d06dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Brands' or . = 'Brands')]</value>
+      <webElementGuid>670b735e-640c-42d5-a427-95361830c9d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
