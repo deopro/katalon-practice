@@ -159,6 +159,26 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/OR_Incredible Connection/Page_Home - Incredible Connection/a_Sign In_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/OR_Incredible Connection/Airbnb/Page_Airbnb  Atlanta - Vacation Rentals  Pl_43ec75/account_pop",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "div.fp36fst.dir.dir-ltr \u003e svg \u003e path",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/OR_Incredible Connection/Airbnb/Page_Airbnb  Atlanta - Vacation Rentals  Pl_43ec75/account_pop_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/OR_Incredible Connection/Airbnb/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/path",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "div.fp36fst.dir.dir-ltr \u003e svg \u003e path",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/OR_Incredible Connection/Airbnb/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/path_CSS.png"
     }
   ]
 }

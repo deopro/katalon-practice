@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Email__kaq6tx</name>
+   <tag></tag>
+   <elementGuidId>c1d4b041-49bb-4035-831b-c120959b48ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span._kaq6tx</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form/div[3]/button/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ad4dd0cd-09ed-4fea-842d-8ea661cba5cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_kaq6tx</value>
+      <webElementGuid>083e0a5d-aa6a-4110-8c92-82cc6d071761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;scrollbar-gutter js-focus-visible&quot;]/body[@class=&quot;with-new-header&quot;]/div[13]/section[1]/div[@class=&quot;_vxvq8x&quot;]/div[@class=&quot;_z4lmgp&quot;]/div[@class=&quot;_z4lmgp&quot;]/div[@class=&quot;_1b64dznw&quot;]/div[@class=&quot;_12kfhdn&quot;]/div[1]/form[1]/div[@class=&quot;_wfo3ii&quot;]/button[@class=&quot;_6hkhatt&quot;]/span[@class=&quot;_jxxpcd&quot;]/span[@class=&quot;_kaq6tx&quot;]</value>
+      <webElementGuid>5db4c131-eea9-48c3-9b8d-f58b9083ca3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/button/span/span</value>
+      <webElementGuid>fcf088f3-729c-4869-abba-165858c300a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

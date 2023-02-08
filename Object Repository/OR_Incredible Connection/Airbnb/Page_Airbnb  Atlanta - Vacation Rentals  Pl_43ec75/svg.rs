@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>7da8e37c-8092-4740-ac19-60db889730cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.s1qcpybl.dir.dir-ltr > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Add guests'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>e081eb95-b71e-4cdf-9067-f86d553607b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 32 32</value>
+      <webElementGuid>8a47304b-8363-4cbb-9cb4-ce0bb89b7a0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>8e507f13-50c4-4795-8df8-206f2c310ad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f91efe79-2b14-460c-8038-95a683682d12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>cf5fb6fc-35c1-44cf-ac2c-08d453fea428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>b1f82f25-02aa-457d-a71b-a1894e09122a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;scrollbar-gutter js-focus-visible&quot;]/body[@class=&quot;with-new-header&quot;]/div[5]/div[1]/div[@class=&quot;t1bgcr6e&quot;]/div[1]/div[1]/div[@class=&quot;_1unac3l&quot;]/div[@class=&quot;_1a5fl1v&quot;]/div[@class=&quot;_3hmsj&quot;]/div[1]/div[@class=&quot;_upim4d&quot;]/div[@class=&quot;c1kae56o dir dir-ltr&quot;]/div[@class=&quot;h1wqqi3k dir dir-ltr&quot;]/div[@class=&quot;c1yo0219 dir dir-ltr&quot;]/div[1]/div[@class=&quot;dir dir-ltr&quot;]/header[@class=&quot;cd7vm0z cferccn dir dir-ltr&quot;]/div[@class=&quot;c15bctny caumjy0 dir dir-ltr&quot;]/div[@class=&quot;c7eo6tu dir dir-ltr&quot;]/div[@class=&quot;lkm6i7z l1rzxhu2 lr5v90m dir dir-ltr&quot;]/div[@class=&quot;cs3bjhu cfc0w66 dir dir-ltr&quot;]/button[@class=&quot;f19g2zq0 dir dir-ltr&quot;]/div[@class=&quot;s1qcpybl dir dir-ltr&quot;]/svg[1]</value>
+      <webElementGuid>d4aefb12-123d-4df9-8e34-d2547bf9e1d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add guests'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>c27f91fe-8553-4802-8114-e511442899e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guests'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>8e73051a-000b-4cb8-b6d5-ffe7e77c3c72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stays'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>5401a294-c589-495f-85fc-6152748893be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Experiences'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>10f1d729-0d67-4fac-8d17-dec1b446a9c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
