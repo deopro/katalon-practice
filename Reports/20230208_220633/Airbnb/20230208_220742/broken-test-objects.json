@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/OR_Incredible Connection/Airbnb/Page_Airbnb  Atlanta - Vacation Rentals  Pl_43ec75/account_pop",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "div.fp36fst.dir.dir-ltr \u003e svg \u003e path",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/20230208_220633/Airbnb/20230208_220742/Object Repository/OR_Incredible Connection/Airbnb/Page_Airbnb  Atlanta - Vacation Rentals  Pl_43ec75/account_pop_CSS.png"
+    }
+  ]
+}

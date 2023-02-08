@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Airbnb,Chrome 110.0.0.0,,,2023-02-08 22:07:54,2023-02-08 22:10:06,2m - 11.167s,FAILED
+,,,,,,,
+Test Cases/Data-Driven Testing/Find a place,Chrome 110.0.0.0,,,2023-02-08 22:07:55,2023-02-08 22:08:39,44.358s,FAILED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 22:07:56,2023-02-08 22:08:21,25.255s,PASSED
+"navigateToUrl(""https://www.airbnb.com/"")",Chrome 110.0.0.0,,,2023-02-08 22:08:21,2023-02-08 22:08:31,9.836s,PASSED
+"click(findTestObject(""OR_Incredible Connection/Airbnb/Page_Airbnb  Atlanta - Vacation Rentals  Pl_43ec75/svg""))",Chrome 110.0.0.0,,,2023-02-08 22:08:31,2023-02-08 22:08:38,6.839s,PASSED
+"setText(findTestObject(""Object Repository/OR_Incredible Connection/Airbnb/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/input_Where_query""), city)",Chrome 110.0.0.0,,,2023-02-08 22:08:38,2023-02-08 22:08:39,1.764s,FAILED
+,,,,,,,
+Test Cases/Data-Driven Testing/sign-up,Chrome 110.0.0.0,,,2023-02-08 22:08:40,2023-02-08 22:10:06,1m - 25.833s,FAILED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 22:08:41,2023-02-08 22:08:51,10.130s,PASSED
+"navigateToUrl(""https://www.airbnb.com/"")",Chrome 110.0.0.0,,,2023-02-08 22:08:51,2023-02-08 22:09:01,10.209s,PASSED
+"click(findTestObject(""OR_Incredible Connection/Airbnb/Page_Airbnb  Atlanta - Vacation Rentals  Pl_43ec75/account_pop""))",Chrome 110.0.0.0,,,2023-02-08 22:09:01,2023-02-08 22:10:05,1m - 4.435s,FAILED

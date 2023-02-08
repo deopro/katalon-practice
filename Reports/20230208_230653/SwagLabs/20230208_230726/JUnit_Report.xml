@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SwagLabs" time="100.938" tests="2" failures="1" errors="0">
+   <testsuite name="SwagLabs" tests="2" failures="1" errors="0" time="100.938" skipped="0" timestamp="2023-02-08 23:08:00" hostname="Admin - DEOLINDO.home" id="Test Suites/SwagLabs">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Admin\\Katalon Studio\\katalon-practice (1)\\Reports\\20230208_230653\\SwagLabs\\20230208_230726"/>
+         <property name="logFiles" value="C:\\Users\\Admin\\Katalon Studio\\katalon-practice (1)\\Reports\\20230208_230653\\SwagLabs\\20230208_230726\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Admin - DEOLINDO.home"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 110.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.171"/>
+         <property name="sessionId" value="76e69f3d7d540ce6a5d2bb5185fa6c42"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/SwagLabs Demo/Login" time="64.879" classname="Test Cases/SwagLabs Demo/Login" status="PASSED">
+         <system-out><![CDATA[2023-02-08 23:08:01 - [TEST_CASE][PASSED] - Test Cases/SwagLabs Demo/Login: Test Cases/SwagLabs Demo/Login
+
+2023-02-08 23:08:03 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-08 23:08:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-08 23:08:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-08 23:08:28 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-08 23:08:28 - [TEST_STEP][PASSED] - navigateToUrl("https://www.saucedemo.com/"): Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-02-08 23:08:44 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-02-08 23:08:44 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_8f3e31"), "standard_user"): Text 'standard_user' is set on object 'Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_8f3e31'
+
+2023-02-08 23:08:47 - [MESSAGE][PASSED] - Text 'standard_user' is set on object 'Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_8f3e31'
+
+2023-02-08 23:08:47 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_a82549"), "qcu24s4901FyWDTwXGr6XA=="): Text ****** has been set on object 'Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_a82549'
+
+2023-02-08 23:08:52 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_a82549'
+
+2023-02-08 23:08:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_eeff57")): Object: 'Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_eeff57' is clicked on
+
+2023-02-08 23:09:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/input_concat(Epic sadface You can only acce_eeff57' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SwagLabs Demo/Purchase" time="34.736" classname="Test Cases/SwagLabs Demo/Purchase" status="FAILED">
+         <failure type="FAILED" message="Test Cases/SwagLabs Demo/Purchase FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Cannot take screenshot
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword.takeScreenshot(TakeScreenshotKeyword.groovy:126)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword.execute(TakeScreenshotKeyword.groovy:84)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.takeScreenshotAsCheckpoint(WebUiBuiltInKeywords.groovy:3093)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$takeScreenshotAsCheckpoint$5.call(Unknown Source)
+	at Purchase.run(Purchase:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1675894046083.run(TempTestSuite1675894046083.groovy:36)
+Caused by: java.lang.ClassCastException: java.lang.Double cannot be cast to java.lang.Long
+	at com.kms.katalon.core.webui.util.FileUtil.getScrollY(FileUtil.java:355)
+	at com.kms.katalon.core.webui.util.FileUtil.takesScreenshot(FileUtil.java:68)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword$_takeScreenshot_closure1.doCall(TakeScreenshotKeyword.groovy:127)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword$_takeScreenshot_closure1.call(TakeScreenshotKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2023-02-08 23:09:06 - [TEST_CASE][FAILED] - Test Cases/SwagLabs Demo/Purchase: Test Cases/SwagLabs Demo/Purchase FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Cannot take screenshot
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword.takeScreenshot(TakeScreenshotKeyword.groovy:126)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword.execute(TakeScreenshotKeyword.groovy:84)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.takeScreenshotAsCheckpoint(WebUiBuiltInKeywords.groovy:3093)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$takeScreenshotAsCheckpoint$5.call(Unknown Source)
+	at Purchase.run(Purchase:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1675894046083.run(TempTestSuite1675894046083.groovy:36)
+Caused by: java.lang.ClassCastException: java.lang.Double cannot be cast to java.lang.Long
+	at com.kms.katalon.core.webui.util.FileUtil.getScrollY(FileUtil.java:355)
+	at com.kms.katalon.core.webui.util.FileUtil.takesScreenshot(FileUtil.java:68)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword$_takeScreenshot_closure1.doCall(TakeScreenshotKeyword.groovy:127)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword$_takeScreenshot_closure1.call(TakeScreenshotKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2023-02-08 23:09:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/button_Add to cart")): Object: 'Object Repository/Page_Swag Labs/button_Add to cart' is clicked on
+
+2023-02-08 23:09:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/button_Add to cart' is clicked on
+
+2023-02-08 23:09:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/button_Add to cart_1")): Object: 'Object Repository/Page_Swag Labs/button_Add to cart_1' is clicked on
+
+2023-02-08 23:09:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/button_Add to cart_1' is clicked on
+
+2023-02-08 23:09:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/button_Add to cart_1_2")): Object: 'Object Repository/Page_Swag Labs/button_Add to cart_1_2' is clicked on
+
+2023-02-08 23:09:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/button_Add to cart_1_2' is clicked on
+
+2023-02-08 23:09:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/span_3")): Object: 'Object Repository/Page_Swag Labs/span_3' is clicked on
+
+2023-02-08 23:09:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/span_3' is clicked on
+
+2023-02-08 23:09:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/button_Remove")): Object: 'Object Repository/Page_Swag Labs/button_Remove' is clicked on
+
+2023-02-08 23:09:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/button_Remove' is clicked on
+
+2023-02-08 23:09:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/button_Checkout")): Object: 'Object Repository/Page_Swag Labs/button_Checkout' is clicked on
+
+2023-02-08 23:09:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/button_Checkout' is clicked on
+
+2023-02-08 23:09:12 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Swag Labs/input_Checkout Your Information_firstName"), "Deo"): Text 'Deo' is set on object 'Object Repository/Page_Swag Labs/input_Checkout Your Information_firstName'
+
+2023-02-08 23:09:13 - [MESSAGE][PASSED] - Text 'Deo' is set on object 'Object Repository/Page_Swag Labs/input_Checkout Your Information_firstName'
+
+2023-02-08 23:09:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Swag Labs/input_Checkout Your Information_lastName"), "Pro"): Text 'Pro' is set on object 'Object Repository/Page_Swag Labs/input_Checkout Your Information_lastName'
+
+2023-02-08 23:09:15 - [MESSAGE][PASSED] - Text 'Pro' is set on object 'Object Repository/Page_Swag Labs/input_Checkout Your Information_lastName'
+
+2023-02-08 23:09:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Swag Labs/input_Checkout Your Information_postalCode"), "2026"): Text '2026' is set on object 'Object Repository/Page_Swag Labs/input_Checkout Your Information_postalCode'
+
+2023-02-08 23:09:16 - [MESSAGE][PASSED] - Text '2026' is set on object 'Object Repository/Page_Swag Labs/input_Checkout Your Information_postalCode'
+
+2023-02-08 23:09:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/input_Cancel_continue")): Object: 'Object Repository/Page_Swag Labs/input_Cancel_continue' is clicked on
+
+2023-02-08 23:09:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/input_Cancel_continue' is clicked on
+
+2023-02-08 23:09:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Swag Labs/button_Finish")): Object: 'Object Repository/Page_Swag Labs/button_Finish' is clicked on
+
+2023-02-08 23:09:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Swag Labs/button_Finish' is clicked on
+
+2023-02-08 23:09:22 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Swag Labs/h2_THANK YOU FOR YOUR ORDER"), "THANK YOU FOR YOUR ORDER"): Actual text and expected text of test object 'Object Repository/Page_Swag Labs/h2_THANK YOU FOR YOUR ORDER' are matched.
+
+2023-02-08 23:09:24 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Swag Labs/h2_THANK YOU FOR YOUR ORDER' are matched.
+
+2023-02-08 23:09:24 - [TEST_STEP][FAILED] - takeScreenshotAsCheckpoint("purchase_swag"): Cannot take screenshot (Root cause: com.kms.katalon.core.exception.StepFailedException: Cannot take screenshot
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword.takeScreenshot(TakeScreenshotKeyword.groovy:126)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword.execute(TakeScreenshotKeyword.groovy:84)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.takeScreenshotAsCheckpoint(WebUiBuiltInKeywords.groovy:3093)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$takeScreenshotAsCheckpoint$5.call(Unknown Source)
+	at Purchase.run(Purchase:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1675894046083.run(TempTestSuite1675894046083.groovy:36)
+Caused by: java.lang.ClassCastException: java.lang.Double cannot be cast to java.lang.Long
+	at com.kms.katalon.core.webui.util.FileUtil.getScrollY(FileUtil.java:355)
+	at com.kms.katalon.core.webui.util.FileUtil.takesScreenshot(FileUtil.java:68)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword$_takeScreenshot_closure1.doCall(TakeScreenshotKeyword.groovy:127)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword$_takeScreenshot_closure1.call(TakeScreenshotKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword.takeScreenshot(TakeScreenshotKeyword.groovy:126)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword.execute(TakeScreenshotKeyword.groovy:84)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.takeScreenshotAsCheckpoint(WebUiBuiltInKeywords.groovy:3093)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$takeScreenshotAsCheckpoint$5.call(Unknown Source)
+	at Script1674727216257.run(Script1674727216257.groovy:44)
+	... 13 more
+)
+
+2023-02-08 23:09:41 - [MESSAGE][FAILED] - Cannot take screenshot (Root cause: com.kms.katalon.core.exception.StepFailedException: Cannot take screenshot
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword.takeScreenshot(TakeScreenshotKeyword.groovy:126)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword.execute(TakeScreenshotKeyword.groovy:84)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.takeScreenshotAsCheckpoint(WebUiBuiltInKeywords.groovy:3093)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$takeScreenshotAsCheckpoint$5.call(Unknown Source)
+	at Purchase.run(Purchase:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1675894046083.run(TempTestSuite1675894046083.groovy:36)
+Caused by: java.lang.ClassCastException: java.lang.Double cannot be cast to java.lang.Long
+	at com.kms.katalon.core.webui.util.FileUtil.getScrollY(FileUtil.java:355)
+	at com.kms.katalon.core.webui.util.FileUtil.takesScreenshot(FileUtil.java:68)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword$_takeScreenshot_closure1.doCall(TakeScreenshotKeyword.groovy:127)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword$_takeScreenshot_closure1.call(TakeScreenshotKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword.takeScreenshot(TakeScreenshotKeyword.groovy:126)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword.execute(TakeScreenshotKeyword.groovy:84)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.takeScreenshotAsCheckpoint(WebUiBuiltInKeywords.groovy:3093)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$takeScreenshotAsCheckpoint$5.call(Unknown Source)
+	at Script1674727216257.run(Script1674727216257.groovy:44)
+	... 13 more
+)]]></system-out>
+         <system-err><![CDATA[2023-02-08 23:09:06 - [TEST_CASE][FAILED] - Test Cases/SwagLabs Demo/Purchase: Test Cases/SwagLabs Demo/Purchase FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Cannot take screenshot
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword.takeScreenshot(TakeScreenshotKeyword.groovy:126)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword.execute(TakeScreenshotKeyword.groovy:84)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.takeScreenshotAsCheckpoint(WebUiBuiltInKeywords.groovy:3093)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$takeScreenshotAsCheckpoint$5.call(Unknown Source)
+	at Purchase.run(Purchase:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1675894046083.run(TempTestSuite1675894046083.groovy:36)
+Caused by: java.lang.ClassCastException: java.lang.Double cannot be cast to java.lang.Long
+	at com.kms.katalon.core.webui.util.FileUtil.getScrollY(FileUtil.java:355)
+	at com.kms.katalon.core.webui.util.FileUtil.takesScreenshot(FileUtil.java:68)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword$_takeScreenshot_closure1.doCall(TakeScreenshotKeyword.groovy:127)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword$_takeScreenshot_closure1.call(TakeScreenshotKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-02-08 23:08:00 - [TEST_SUITE][FAILED] - SwagLabs: Test Cases/SwagLabs Demo/Purchase FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Cannot take screenshot
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword.takeScreenshot(TakeScreenshotKeyword.groovy:126)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword.execute(TakeScreenshotKeyword.groovy:84)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.takeScreenshotAsCheckpoint(WebUiBuiltInKeywords.groovy:3093)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$takeScreenshotAsCheckpoint$5.call(Unknown Source)
+	at Purchase.run(Purchase:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1675894046083.run(TempTestSuite1675894046083.groovy:36)
+Caused by: java.lang.ClassCastException: java.lang.Double cannot be cast to java.lang.Long
+	at com.kms.katalon.core.webui.util.FileUtil.getScrollY(FileUtil.java:355)
+	at com.kms.katalon.core.webui.util.FileUtil.takesScreenshot(FileUtil.java:68)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword$_takeScreenshot_closure1.doCall(TakeScreenshotKeyword.groovy:127)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword$_takeScreenshot_closure1.call(TakeScreenshotKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2023-02-08 23:08:00 - [TEST_SUITE][FAILED] - SwagLabs: Test Cases/SwagLabs Demo/Purchase FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Cannot take screenshot
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword.takeScreenshot(TakeScreenshotKeyword.groovy:126)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword.execute(TakeScreenshotKeyword.groovy:84)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.takeScreenshotAsCheckpoint(WebUiBuiltInKeywords.groovy:3093)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$takeScreenshotAsCheckpoint$5.call(Unknown Source)
+	at Purchase.run(Purchase:44)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1675894046083.run(TempTestSuite1675894046083.groovy:36)
+Caused by: java.lang.ClassCastException: java.lang.Double cannot be cast to java.lang.Long
+	at com.kms.katalon.core.webui.util.FileUtil.getScrollY(FileUtil.java:355)
+	at com.kms.katalon.core.webui.util.FileUtil.takesScreenshot(FileUtil.java:68)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword$_takeScreenshot_closure1.doCall(TakeScreenshotKeyword.groovy:127)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeScreenshotKeyword$_takeScreenshot_closure1.call(TakeScreenshotKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

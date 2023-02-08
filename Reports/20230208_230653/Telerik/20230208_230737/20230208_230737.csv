@@ -1,0 +1,116 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Telerik,Chrome 110.0.0.0,,,2023-02-08 23:08:15,2023-02-08 23:18:22,10m - 7.896s,FAILED
+,,,,,,,
+Test Cases/Telerik/Blogs,Chrome 110.0.0.0,,,2023-02-08 23:08:15,2023-02-08 23:10:39,2m - 23.695s,PASSED
+"callTestCase(findTestCase(""Telerik/Open URL""), [:], STOP_ON_FAILURE)",Chrome 110.0.0.0,,,2023-02-08 23:08:19,2023-02-08 23:09:35,1m - 15.933s,PASSED
+maximizeWindow(),Chrome 110.0.0.0,Maximize current window,,2023-02-08 23:09:35,2023-02-08 23:09:38,3.612s,PASSED
+"click(findTestObject(""Object Repository/Telerik/Blogs/a_Get A Free Trial""))",Chrome 110.0.0.0,,,2023-02-08 23:09:38,2023-02-08 23:10:26,47.425s,PASSED
+"click(findTestObject(""Object Repository/Telerik/Blogs/a_Try now""))",Chrome 110.0.0.0,,,2023-02-08 23:10:26,2023-02-08 23:10:39,13.367s,PASSED
+,,,,,,,
+Test Cases/Telerik/catorze,Chrome 110.0.0.0,,,2023-02-08 23:10:39,2023-02-08 23:10:57,18.369s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 23:10:40,2023-02-08 23:10:49,8.817s,PASSED
+"navigateToUrl(""https://www.telerik.com/support/demos"")",Chrome 110.0.0.0,,,2023-02-08 23:10:49,2023-02-08 23:10:57,8.869s,PASSED
+,,,,,,,
+Test Cases/Telerik/cinco,Chrome 110.0.0.0,,,2023-02-08 23:10:57,2023-02-08 23:11:12,14.120s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 23:10:58,2023-02-08 23:11:04,5.774s,PASSED
+"navigateToUrl(""https://www.telerik.com/support/demos"")",Chrome 110.0.0.0,,,2023-02-08 23:11:04,2023-02-08 23:11:12,7.737s,PASSED
+,,,,,,,
+Test Cases/Telerik/Create Account,Chrome 110.0.0.0,,,2023-02-08 23:11:12,2023-02-08 23:11:45,33.796s,PASSED
+"callTestCase(findTestCase(""Telerik/Open URL""), [:], STOP_ON_FAILURE)",Chrome 110.0.0.0,,,2023-02-08 23:11:12,2023-02-08 23:11:27,15.058s,PASSED
+maximizeWindow(),Chrome 110.0.0.0,Maximize current window,,2023-02-08 23:11:27,2023-02-08 23:11:28,0.305s,PASSED
+"click(findTestObject(""Object Repository/Telerik/Docs and Support/a_Login""))",Chrome 110.0.0.0,,,2023-02-08 23:11:28,2023-02-08 23:11:37,9.848s,PASSED
+"setText(findTestObject(""Object Repository/Telerik/Create Account/input_Work or Telerik Account Email_email""), ""test@test.com"")",Chrome 110.0.0.0,,,2023-02-08 23:11:37,2023-02-08 23:11:42,4.241s,PASSED
+"click(findTestObject(""Object Repository/Telerik/Create Account/button_Next""))",Chrome 110.0.0.0,,,2023-02-08 23:11:42,2023-02-08 23:11:42,0.677s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Telerik/Create Account/input_Password_password""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Chrome 110.0.0.0,,,2023-02-08 23:11:42,2023-02-08 23:11:45,2.331s,PASSED
+"click(findTestObject(""Object Repository/Telerik/Create Account/button_Log in Now""))",Chrome 110.0.0.0,,,2023-02-08 23:11:45,2023-02-08 23:11:45,0.637s,PASSED
+,,,,,,,
+Test Cases/Telerik/desanove,Chrome 110.0.0.0,,,2023-02-08 23:11:45,2023-02-08 23:11:57,11.723s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 23:11:46,2023-02-08 23:11:51,5.385s,PASSED
+"navigateToUrl(""https://www.telerik.com/support/demos"")",Chrome 110.0.0.0,,,2023-02-08 23:11:51,2023-02-08 23:11:57,5.677s,PASSED
+,,,,,,,
+Test Cases/Telerik/desasseis,Chrome 110.0.0.0,,,2023-02-08 23:11:57,2023-02-08 23:12:09,11.730s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 23:11:58,2023-02-08 23:12:03,5.485s,PASSED
+"navigateToUrl(""https://www.telerik.com/support/demos"")",Chrome 110.0.0.0,,,2023-02-08 23:12:03,2023-02-08 23:12:09,5.580s,PASSED
+,,,,,,,
+Test Cases/Telerik/desoito,Chrome 110.0.0.0,,,2023-02-08 23:12:09,2023-02-08 23:12:20,11.682s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 23:12:10,2023-02-08 23:12:14,4.763s,PASSED
+"navigateToUrl(""https://www.telerik.com/support/demos"")",Chrome 110.0.0.0,,,2023-02-08 23:12:14,2023-02-08 23:12:20,6.161s,PASSED
+,,,,,,,
+Test Cases/Telerik/Docs and Support,Chrome 110.0.0.0,,,2023-02-08 23:12:20,2023-02-08 23:13:18,57.450s,FAILED
+"callTestCase(findTestCase(""Telerik/Open URL""), [:], STOP_ON_FAILURE)",Chrome 110.0.0.0,,,2023-02-08 23:12:21,2023-02-08 23:12:34,13.057s,PASSED
+maximizeWindow(),Chrome 110.0.0.0,Maximize current window,,2023-02-08 23:12:34,2023-02-08 23:12:34,0.277s,PASSED
+"click(findTestObject(""Object Repository/Telerik/Docs and Support/a_Docs  Support""))",Chrome 110.0.0.0,,,2023-02-08 23:12:34,2023-02-08 23:12:44,9.155s,PASSED
+"click(findTestObject(""Object Repository/Telerik/Docs and Support/a_Sitefinity""))",Chrome 110.0.0.0,,,2023-02-08 23:12:44,2023-02-08 23:13:18,34.330s,FAILED
+,,,,,,,
+Test Cases/Telerik/dose,Chrome 110.0.0.0,,,2023-02-08 23:13:18,2023-02-08 23:13:30,12.324s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 23:13:18,2023-02-08 23:13:23,4.593s,PASSED
+"navigateToUrl(""https://www.telerik.com/support/demos"")",Chrome 110.0.0.0,,,2023-02-08 23:13:23,2023-02-08 23:13:30,7.464s,PASSED
+,,,,,,,
+Test Cases/Telerik/DPKF Music,Chrome 110.0.0.0,,,2023-02-08 23:13:30,2023-02-08 23:13:59,28.450s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 23:13:31,2023-02-08 23:13:36,4.725s,PASSED
+"navigateToUrl(""https://www.dpkfmusic.com/"")",Chrome 110.0.0.0,,,2023-02-08 23:13:36,2023-02-08 23:13:59,23.116s,PASSED
+,,,,,,,
+Test Cases/Telerik/Koffie Luso,Chrome 110.0.0.0,,,2023-02-08 23:13:59,2023-02-08 23:14:22,23.436s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 23:13:59,2023-02-08 23:14:05,5.453s,PASSED
+"navigateToUrl(""https://koffieluso.com/"")",Chrome 110.0.0.0,,,2023-02-08 23:14:05,2023-02-08 23:14:22,17.283s,PASSED
+,,,,,,,
+Test Cases/Telerik/Noticias,Chrome 110.0.0.0,,,2023-02-08 23:14:22,2023-02-08 23:14:58,35.980s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 23:14:23,2023-02-08 23:14:27,4.540s,PASSED
+"navigateToUrl(""https://koffieluso.com/"")",Chrome 110.0.0.0,,,2023-02-08 23:14:27,2023-02-08 23:14:41,14.152s,PASSED
+"click(findTestObject(""Object Repository/Koffie Luso/a_Atualidade""))",Chrome 110.0.0.0,,,2023-02-08 23:14:41,2023-02-08 23:14:45,3.377s,PASSED
+"click(findTestObject(""Object Repository/Koffie Luso/a_RAZES, lbum de estreia de Dj Ritchelly""))",Chrome 110.0.0.0,,,2023-02-08 23:14:45,2023-02-08 23:14:55,10.580s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-08 23:14:55,2023-02-08 23:14:58,2.835s,PASSED
+,,,,,,,
+Test Cases/Telerik/nove,Chrome 110.0.0.0,,,2023-02-08 23:14:58,2023-02-08 23:15:09,10.755s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 23:14:59,2023-02-08 23:15:03,4.128s,PASSED
+"navigateToUrl(""https://www.telerik.com/support/demos"")",Chrome 110.0.0.0,,,2023-02-08 23:15:03,2023-02-08 23:15:09,6.067s,PASSED
+,,,,,,,
+Test Cases/Telerik/oito,Chrome 110.0.0.0,,,2023-02-08 23:15:09,2023-02-08 23:15:22,13.309s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 23:15:10,2023-02-08 23:15:15,5.259s,PASSED
+"navigateToUrl(""https://www.telerik.com/support/demos"")",Chrome 110.0.0.0,,,2023-02-08 23:15:15,2023-02-08 23:15:22,7.413s,PASSED
+,,,,,,,
+Test Cases/Telerik/onze,Chrome 110.0.0.0,,,2023-02-08 23:15:22,2023-02-08 23:15:34,12.230s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 23:15:23,2023-02-08 23:15:28,5.113s,PASSED
+"navigateToUrl(""https://www.telerik.com/support/demos"")",Chrome 110.0.0.0,,,2023-02-08 23:15:28,2023-02-08 23:15:34,6.518s,PASSED
+,,,,,,,
+Test Cases/Telerik/Open URL,Chrome 110.0.0.0,,,2023-02-08 23:15:34,2023-02-08 23:15:45,10.579s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 23:15:35,2023-02-08 23:15:40,5.066s,PASSED
+"navigateToUrl(""https://www.telerik.com/support/demos"")",Chrome 110.0.0.0,,,2023-02-08 23:15:40,2023-02-08 23:15:45,5.502s,PASSED
+,,,,,,,
+Test Cases/Telerik/Platinaline,Chrome 110.0.0.0,,,2023-02-08 23:15:45,2023-02-08 23:16:01,16.267s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 23:15:46,2023-02-08 23:15:50,4.559s,PASSED
+"navigateToUrl(""http://platinaline.com/"")",Chrome 110.0.0.0,,,2023-02-08 23:15:50,2023-02-08 23:16:01,11.076s,PASSED
+,,,,,,,
+Test Cases/Telerik/Pricing,Chrome 110.0.0.0,,,2023-02-08 23:16:01,2023-02-08 23:16:58,56.719s,FAILED
+"callTestCase(findTestCase(""Telerik/Open URL""), [:], STOP_ON_FAILURE)",Chrome 110.0.0.0,,,2023-02-08 23:16:02,2023-02-08 23:16:14,11.905s,PASSED
+"click(findTestObject(""Object Repository/Pricing/button_Get A Free Trial_js-tlrk-nav-drawer-button""))",Chrome 110.0.0.0,,,2023-02-08 23:16:14,2023-02-08 23:16:15,0.898s,PASSED
+"click(findTestObject(""Object Repository/Pricing/a_Pricing""))",Chrome 110.0.0.0,,,2023-02-08 23:16:15,2023-02-08 23:16:21,6.489s,PASSED
+"click(findTestObject(""Object Repository/Pricing/a_Buy now""))",Chrome 110.0.0.0,,,2023-02-08 23:16:21,2023-02-08 23:16:58,36.659s,FAILED
+,,,,,,,
+Test Cases/Telerik/quinze,Chrome 110.0.0.0,,,2023-02-08 23:16:58,2023-02-08 23:17:09,10.687s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 23:16:58,2023-02-08 23:17:03,4.401s,PASSED
+"navigateToUrl(""https://www.telerik.com/support/demos"")",Chrome 110.0.0.0,,,2023-02-08 23:17:03,2023-02-08 23:17:09,5.894s,PASSED
+,,,,,,,
+Test Cases/Telerik/seis,Chrome 110.0.0.0,,,2023-02-08 23:17:09,2023-02-08 23:17:20,11.682s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 23:17:09,2023-02-08 23:17:15,5.183s,PASSED
+"navigateToUrl(""https://www.telerik.com/support/demos"")",Chrome 110.0.0.0,,,2023-02-08 23:17:15,2023-02-08 23:17:20,5.878s,PASSED
+,,,,,,,
+Test Cases/Telerik/Services,Chrome 110.0.0.0,,,2023-02-08 23:17:20,2023-02-08 23:17:35,14.318s,FAILED
+"callTestCase(findTestCase(""Telerik/Open URL""), [:], STOP_ON_FAILURE)",Chrome 110.0.0.0,,,2023-02-08 23:17:21,2023-02-08 23:17:33,12.292s,PASSED
+"click(findTestObject(""Object Repository/Telerik/Services/a_Services""))",Chrome 110.0.0.0,,,2023-02-08 23:17:33,2023-02-08 23:17:35,1.423s,FAILED
+,,,,,,,
+Test Cases/Telerik/sete,Chrome 110.0.0.0,,,2023-02-08 23:17:35,2023-02-08 23:17:46,11.624s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 23:17:36,2023-02-08 23:17:41,5.042s,PASSED
+"navigateToUrl(""https://www.telerik.com/support/demos"")",Chrome 110.0.0.0,,,2023-02-08 23:17:41,2023-02-08 23:17:46,5.754s,PASSED
+,,,,,,,
+Test Cases/Telerik/tres,Chrome 110.0.0.0,,,2023-02-08 23:17:46,2023-02-08 23:17:59,12.794s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 23:17:47,2023-02-08 23:17:52,4.510s,PASSED
+"navigateToUrl(""https://www.telerik.com/support/demos"")",Chrome 110.0.0.0,,,2023-02-08 23:17:52,2023-02-08 23:17:59,7.669s,PASSED
+,,,,,,,
+Test Cases/Telerik/treze,Chrome 110.0.0.0,,,2023-02-08 23:17:59,2023-02-08 23:18:11,11.456s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 23:18:00,2023-02-08 23:18:05,4.719s,PASSED
+"navigateToUrl(""https://www.telerik.com/support/demos"")",Chrome 110.0.0.0,,,2023-02-08 23:18:05,2023-02-08 23:18:11,6.020s,PASSED
+,,,,,,,
+Test Cases/Telerik/um,Chrome 110.0.0.0,,,2023-02-08 23:18:11,2023-02-08 23:18:22,11.739s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-08 23:18:11,2023-02-08 23:18:16,5.109s,PASSED
+"navigateToUrl(""https://www.telerik.com/support/demos"")",Chrome 110.0.0.0,,,2023-02-08 23:18:16,2023-02-08 23:18:22,6.035s,PASSED
