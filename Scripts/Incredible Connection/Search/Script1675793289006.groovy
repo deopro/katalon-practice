@@ -29,3 +29,5 @@ WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/Search/sp
 
 WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/Search/span_products'))
 
+WebUI.takeScreenshotAsCheckpoint('search')
+

@@ -21,3 +21,5 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.incredible.co.za/')
 
+WebUI.takeScreenshotAsCheckpoint('landing_page')
+

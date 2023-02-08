@@ -27,3 +27,5 @@ WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/Games/but
 
 WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/Games/a_Activision 3'))
 
+WebUI.takeScreenshotAsCheckpoint('gaming')
+

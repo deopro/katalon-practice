@@ -63,3 +63,5 @@ WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/Payment/d
 WebUI.verifyElementText(findTestObject('Object Repository/OR_Incredible Connection/Payment/div_The ID number entered is not a valid So_319c78'), 
     'The ID number entered is not a valid South African ID number.')
 
+WebUI.takeScreenshotAsCheckpoint('payment')
+

@@ -27,3 +27,5 @@ WebUI.setText(findTestObject('Object Repository/OR_Incredible Connection/Track O
 
 WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/Track Order/button_Track Order'))
 
+WebUI.takeScreenshotAsCheckpoint('track_my_order')
+

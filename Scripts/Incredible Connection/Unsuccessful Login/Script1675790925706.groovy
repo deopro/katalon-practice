@@ -34,3 +34,5 @@ WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/Page_Cust
 WebUI.verifyElementText(findTestObject('Object Repository/OR_Incredible Connection/Page_Customer Login - Incredible Connection/div_Your account sign-in was incorrect. Ple_4353bf'), 
     'Your account sign-in was incorrect. Please try again.')
 
+WebUI.takeScreenshotAsCheckpoint('unsuccessful_login')
+

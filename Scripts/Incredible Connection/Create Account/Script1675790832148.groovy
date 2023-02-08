@@ -40,3 +40,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/OR_Incredible Connectio
 WebUI.setEncryptedText(findTestObject('Object Repository/OR_Incredible Connection/input_Confirm Password_password_confirmation'), 
     '9KuFGzalzWgOpbp98rkftg==')
 
+WebUI.takeScreenshotAsCheckpoint('create_account')
+

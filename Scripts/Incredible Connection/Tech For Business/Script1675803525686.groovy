@@ -38,3 +38,5 @@ WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/Tech For 
 WebUI.verifyElementText(findTestObject('Object Repository/OR_Incredible Connection/Tech For Business/span_This is a required field'), 
     'This is a required field.')
 
+WebUI.takeScreenshotAsCheckpoint('tech_for_business')
+

@@ -46,3 +46,5 @@ WebUI.setText(findTestObject('Object Repository/OR_Incredible Connection/Warrant
 WebUI.setText(findTestObject('Object Repository/OR_Incredible Connection/Warranties Registration/textarea_Comment_field19'), 
     'This is a test.')
 
+WebUI.takeScreenshotAsCheckpoint('warranty')
+

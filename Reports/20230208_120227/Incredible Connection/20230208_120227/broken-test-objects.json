@@ -1,0 +1,34 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/OR_Incredible Connection/a_Create an Account",
+      "brokenLocator": "//ul[@id\u003d\u0027header-slideout--1\u0027]/div[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Create an Account\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230208_120227/Incredible Connection/20230208_120227/Object Repository/OR_Incredible Connection/a_Create an Account_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/OR_Incredible Connection/Forgot Password/a_Sign In",
+      "brokenLocator": "//ul[@id\u003d\u0027header-slideout--0\u0027]/div/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Sign In\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230208_120227/Incredible Connection/20230208_120227/Object Repository/OR_Incredible Connection/Forgot Password/a_Sign In_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/OR_Incredible Connection/Page_Home - Incredible Connection/a_Sign In",
+      "brokenLocator": "//ul[@id\u003d\u0027header-slideout--1\u0027]/div/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Sign In\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230208_120227/Incredible Connection/20230208_120227/Object Repository/OR_Incredible Connection/Page_Home - Incredible Connection/a_Sign In_link.png"
+    }
+  ]
+}

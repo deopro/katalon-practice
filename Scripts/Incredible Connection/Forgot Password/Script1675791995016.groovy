@@ -29,3 +29,5 @@ WebUI.setText(findTestObject('Object Repository/OR_Incredible Connection/Forgot 
 
 WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/Forgot Password/button_Submit'))
 
+WebUI.takeScreenshotAsCheckpoint('forgot_password')
+

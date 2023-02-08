@@ -27,3 +27,5 @@ WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/Brands/im
 
 WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/Brands/img_Microsoft Brand Page_lazyload'))
 
+WebUI.takeScreenshotAsCheckpoint('brands')
+

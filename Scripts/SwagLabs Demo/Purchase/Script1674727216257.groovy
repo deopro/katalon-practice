@@ -41,3 +41,5 @@ WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Finish'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/h2_THANK YOU FOR YOUR ORDER'), 'THANK YOU FOR YOUR ORDER')
 
+WebUI.takeScreenshotAsCheckpoint('purchase_swag')
+

@@ -29,3 +29,5 @@ WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/Privacy P
 
 WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/Privacy Policy/div_9. COOKIES'))
 
+WebUI.takeScreenshotAsCheckpoint('privacy_policy')
+

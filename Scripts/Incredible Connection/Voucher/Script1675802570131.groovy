@@ -40,3 +40,5 @@ WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/Voucher/s
 WebUI.verifyElementText(findTestObject('Object Repository/OR_Incredible Connection/Voucher/div_This is a required field'), 
     'This is a required field.')
 
+WebUI.takeScreenshotAsCheckpoint('voucher')
+

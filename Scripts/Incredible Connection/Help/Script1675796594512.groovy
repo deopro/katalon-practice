@@ -32,3 +32,5 @@ WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/Help/a_Re
 WebUI.verifyElementText(findTestObject('Object Repository/OR_Incredible Connection/Help/strong_Not satisfied with your Online Purchase'), 
     'Not satisfied with your Online Purchase?')
 
+WebUI.takeScreenshotAsCheckpoint('help')
+
