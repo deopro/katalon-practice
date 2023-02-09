@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Email__kaq6tx</name>
+   <name>span_Privacy Policy__kaq6tx</name>
    <tag></tag>
-   <elementGuidId>c1d4b041-49bb-4035-831b-c120959b48ba</elementGuidId>
+   <elementGuidId>ef6f787d-bbfe-4ffe-be7e-63d771dbab42</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//form/div[3]/button/span/span</value>
+         <value>//div[4]/button/span/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ad4dd0cd-09ed-4fea-842d-8ea661cba5cf</webElementGuid>
+      <webElementGuid>e60b980e-ca02-4161-96d3-d7a3f736bcdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,22 +30,22 @@
       <name>class</name>
       <type>Main</type>
       <value>_kaq6tx</value>
-      <webElementGuid>083e0a5d-aa6a-4110-8c92-82cc6d071761</webElementGuid>
+      <webElementGuid>f0611fb7-51c3-445f-9954-02246a2f0f96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;scrollbar-gutter js-focus-visible&quot;]/body[@class=&quot;with-new-header&quot;]/div[13]/section[1]/div[@class=&quot;_vxvq8x&quot;]/div[@class=&quot;_z4lmgp&quot;]/div[@class=&quot;_z4lmgp&quot;]/div[@class=&quot;_1b64dznw&quot;]/div[@class=&quot;_12kfhdn&quot;]/div[1]/form[1]/div[@class=&quot;_wfo3ii&quot;]/button[@class=&quot;_6hkhatt&quot;]/span[@class=&quot;_jxxpcd&quot;]/span[@class=&quot;_kaq6tx&quot;]</value>
-      <webElementGuid>5db4c131-eea9-48c3-9b8d-f58b9083ca3d</webElementGuid>
+      <value>/html[@class=&quot;scrollbar-gutter js-focus-visible&quot;]/body[@class=&quot;with-new-header&quot;]/div[13]/section[1]/div[@class=&quot;_vxvq8x&quot;]/div[@class=&quot;_z4lmgp&quot;]/div[@class=&quot;_z4lmgp&quot;]/div[@class=&quot;_1b64dznw&quot;]/div[@class=&quot;_12kfhdn&quot;]/div[1]/form[1]/div[@class=&quot;_1vk19cb&quot;]/div[@class=&quot;_1n35162&quot;]/button[@class=&quot;_6hkhatt&quot;]/span[@class=&quot;_jxxpcd&quot;]/span[@class=&quot;_kaq6tx&quot;]</value>
+      <webElementGuid>dbbfcb7d-8fe1-43c2-aa16-5147598fac94</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/div[3]/button/span/span</value>
-      <webElementGuid>fcf088f3-729c-4869-abba-165858c300a3</webElementGuid>
+      <value>//div[4]/button/span/span</value>
+      <webElementGuid>210e2e4a-2a5f-48c8-96d1-dbaeed608613</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

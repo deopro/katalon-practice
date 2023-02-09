@@ -21,23 +21,23 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.incredible.co.za/')
 
-WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/div_My Account'))
+WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/Create Account/div_My Account'))
 
-WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/a_Create an Account'))
+WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/Create Account/a_Create an Account'))
 
-WebUI.setText(findTestObject('Object Repository/OR_Incredible Connection/input_First Name_firstname'), 'Tester')
+WebUI.setText(findTestObject('Object Repository/OR_Incredible Connection/Create Account/input_First Name_firstname'), 'Tester')
 
-WebUI.setText(findTestObject('Object Repository/OR_Incredible Connection/input_Last Name_lastname'), 'Testing')
+WebUI.setText(findTestObject('Object Repository/OR_Incredible Connection/Create Account/input_Last Name_lastname'), 'Testing')
 
-WebUI.setText(findTestObject('Object Repository/OR_Incredible Connection/input_Cellphone Number_cellphone_number'), '0784492053')
+WebUI.setText(findTestObject('Object Repository/OR_Incredible Connection/Create Account/input_Cellphone Number_cellphone_number'), '0784492053')
 
-WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/label_Passport'))
+WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/Create Account/label_Passport'))
 
-WebUI.setText(findTestObject('Object Repository/OR_Incredible Connection/input_Email Address_email'), 'deolindo9@gmail.com')
+WebUI.setText(findTestObject('Object Repository/OR_Incredible Connection/Create Account/input_Email Address_email'), 'deolindo9@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/OR_Incredible Connection/input_Password_password'), '9KuFGzalzWgOpbp98rkftg==')
+WebUI.setEncryptedText(findTestObject('Object Repository/OR_Incredible Connection/Create Account/input_Password_password'), '9KuFGzalzWgOpbp98rkftg==')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/OR_Incredible Connection/input_Confirm Password_password_confirmation'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/OR_Incredible Connection/Create Account/input_Confirm Password_password_confirmation'), 
     '9KuFGzalzWgOpbp98rkftg==')
 
 WebUI.takeScreenshotAsCheckpoint('create_account')

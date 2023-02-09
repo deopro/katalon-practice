@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Find a place</name>
+   <name>Signin</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>69536360-f8b8-402c-b9fb-41198382a68c</testCaseGuid>
+   <testCaseGuid>10510b46-0d5b-4ce4-871b-cefbca3e2d28</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>22f30927-da33-446a-ac88-a0865b3a39b0</variableId>
+      <variableId>7b35e6aa-72a3-47ca-b84e-f6459ed5fc76</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'Johannesburg'</defaultValue>
+      <defaultValue>'920000111'</defaultValue>
       <description></description>
-      <id>22f30927-da33-446a-ac88-a0865b3a39b0</id>
+      <id>7b35e6aa-72a3-47ca-b84e-f6459ed5fc76</id>
       <masked>false</masked>
-      <name>city</name>
+      <name>phone</name>
    </variable>
 </TestCaseEntity>

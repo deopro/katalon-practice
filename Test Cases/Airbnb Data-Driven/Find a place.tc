@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Find a place</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3bb0132e-9e59-424b-9949-dda18b41fb09</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4112d14e-0a09-40d0-8b42-d0d7c972b3e3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Algave\r\n'</defaultValue>
+      <description></description>
+      <id>4112d14e-0a09-40d0-8b42-d0d7c972b3e3</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+</TestCaseEntity>

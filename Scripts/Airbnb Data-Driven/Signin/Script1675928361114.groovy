@@ -21,14 +21,16 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.airbnb.com/')
 
-WebUI.click(findTestObject('OR_Incredible Connection/Airbnb/Page_Airbnb  Atlanta - Vacation Rentals  Pl_43ec75/svg'))
+WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/OR_Incredible Connection/Airbnb/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/input_Where_query'), 
-    city)
+WebUI.click(findTestObject('Object Repository/OR Airbnb Data-Driven/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/svg'))
 
-WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/Airbnb/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_Check in'))
+WebUI.click(findTestObject('Object Repository/OR Airbnb Data-Driven/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_Log in'))
 
-WebUI.click(findTestObject('null'))
+WebUI.setText(findTestObject('Object Repository/OR Airbnb Data-Driven/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/input_Phone number_phoneInputphoneNumber'), 
+    phone)
 
-WebUI.click(findTestObject('Object Repository/OR_Incredible Connection/Airbnb/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/span_Add guests__kaq6tx'))
+WebUI.takeScreenshotAsCheckpoint('')
+
+WebUI.closeBrowser()
 

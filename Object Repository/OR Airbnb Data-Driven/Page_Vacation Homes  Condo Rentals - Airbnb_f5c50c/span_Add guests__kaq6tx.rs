@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add guests__kaq6tx</name>
+   <tag></tag>
+   <elementGuidId>283751e2-4b28-40ea-bea1-3064f12dad05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span._kaq6tx</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search-tabpanel']/div/div[5]/div/div[2]/button/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b6abd3fa-4068-4906-a437-06db5bbb7b70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_kaq6tx</value>
+      <webElementGuid>030457af-ffe2-41c4-9641-6142f51980ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-tabpanel&quot;)/div[@class=&quot;i1wnljx3 dir dir-ltr&quot;]/div[@class=&quot;c6ezw63 c1geg2ah dir dir-ltr&quot;]/div[@class=&quot;c2frgdd crbzydf dir dir-ltr&quot;]/div[@class=&quot;s1i622mb dir dir-ltr&quot;]/button[@class=&quot;b134py57 b14gupvm dir dir-ltr&quot;]/span[@class=&quot;_jxxpcd&quot;]/span[@class=&quot;_kaq6tx&quot;]</value>
+      <webElementGuid>cb475793-f698-4b36-ad09-870a0aa62d08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-tabpanel']/div/div[5]/div/div[2]/button/span/span</value>
+      <webElementGuid>d1f3eeea-7af3-4b1b-bfa1-8ea7da0d300b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>22beeb45-2bfe-4275-bfcd-2d74e27044e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

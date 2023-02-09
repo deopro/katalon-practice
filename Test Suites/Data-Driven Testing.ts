@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Sanity Checking</name>
+   <name>Data-Driven Testing</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,5 +10,5 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>6eb77708-e2f0-482f-a520-30d901159432</testSuiteGuid>
+   <testSuiteGuid>ccd0fdf9-a3a4-4fa9-afbd-d407d1a0dd43</testSuiteGuid>
 </TestSuiteEntity>

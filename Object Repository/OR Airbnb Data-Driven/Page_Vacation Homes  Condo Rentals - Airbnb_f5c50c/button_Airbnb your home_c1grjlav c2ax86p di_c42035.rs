@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Airbnb your home_c1grjlav c2ax86p di_c42035</name>
+   <tag></tag>
+   <elementGuidId>0b3a7578-647c-4f7b-ba7a-1f1139ec73d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.c1grjlav.c2ax86p.dir.dir-ltr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[15]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1939620d-b1dd-49d0-a213-79958eb7ab6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>33efa9df-08a2-49b8-8adb-6f55b43ebab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c1grjlav c2ax86p dir dir-ltr</value>
+      <webElementGuid>78267833-8d6a-4d11-ad13-3aad0443bcde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0aa4975f-e9db-419c-ba8a-6234ec5f369f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Main navigation menu</value>
+      <webElementGuid>c9321142-0e81-45b8-8ccc-d3ad96b91a14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>cypress-headernav-profile</value>
+      <webElementGuid>bf787565-dc16-4556-afc1-d15b3ed89686</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;scrollbar-gutter js-focus-visible&quot;]/body[@class=&quot;with-new-header&quot;]/div[5]/div[1]/div[@class=&quot;t1bgcr6e&quot;]/div[1]/div[1]/div[@class=&quot;_1unac3l&quot;]/div[@class=&quot;_1a5fl1v&quot;]/div[@class=&quot;_3hmsj&quot;]/div[1]/div[@class=&quot;_upim4d&quot;]/div[@class=&quot;c1kae56o dir dir-ltr&quot;]/div[@class=&quot;h1wqqi3k dir dir-ltr&quot;]/div[@class=&quot;c1yo0219 dir dir-ltr&quot;]/div[1]/div[1]/div[@class=&quot;dir dir-ltr&quot;]/header[@class=&quot;cd7vm0z cferccn dir dir-ltr&quot;]/div[@class=&quot;c15bctny caumjy0 dir dir-ltr&quot;]/div[@class=&quot;c1kbjhzw dir dir-ltr&quot;]/nav[@class=&quot;_vuzcgs&quot;]/div[@class=&quot;_3hmsj&quot;]/div[@class=&quot;_167wsvl&quot;]/button[@class=&quot;c1grjlav c2ax86p dir dir-ltr&quot;]</value>
+      <webElementGuid>6d597cac-9d25-4d94-96ee-ba156ea3199b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[15]</value>
+      <webElementGuid>81918e0d-fecd-4831-a2e3-04bf08f76ac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airbnb your home'])[1]/following::button[2]</value>
+      <webElementGuid>416b4076-6796-4ded-bd47-cd629a9828bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::button[2]</value>
+      <webElementGuid>7af9405f-9ad1-4cbc-a032-a46a6c577d84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/preceding::button[1]</value>
+      <webElementGuid>cbff6a8f-7aad-422c-b273-eb89cc33a2d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::button[1]</value>
+      <webElementGuid>861f8cfe-7922-4eef-b0e6-d21d53c6e5a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div[2]/div/button</value>
+      <webElementGuid>87ea76e7-33c5-4735-914f-48a8ae6845c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>cfe73dac-40cf-4a07-a72c-6a59f07df531</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_id(katalon-rec_elementInfoDiv)</name>
+   <name>div_Log in</name>
    <tag></tag>
-   <elementGuidId>5742e7d3-5aff-4816-9151-e3cd3df9f28d</elementGuidId>
+   <elementGuidId>66880ca4-1dcd-42cc-a7e9-c852588a2c31</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#katalon-rec_elementInfoDiv</value>
+         <value>div.ld7h8km.dir.dir-ltr</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='katalon-rec_elementInfoDiv']</value>
+         <value>//div[@id='simple-header-profile-menu']/div/a[2]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,94 +22,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b0123973-fb05-4209-91dc-9610ae4c9962</webElementGuid>
+      <webElementGuid>1053c5cc-303f-4f57-9ee4-3316ec691598</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>class</name>
       <type>Main</type>
-      <value>katalon-rec_elementInfoDiv</value>
-      <webElementGuid>ddcf70a0-edaa-4cad-94d7-250b5632a774</webElementGuid>
+      <value>ld7h8km dir dir-ltr</value>
+      <webElementGuid>6469d72b-a1ea-42e7-b48a-9618cfc11f70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>id(&quot;katalon-rec_elementInfoDiv&quot;)</value>
-      <webElementGuid>c35df5a4-a635-4b7a-9595-76c67522ae4e</webElementGuid>
+      <value>Log in</value>
+      <webElementGuid>1d61af2d-fbde-458e-8da8-30d8220fa929</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;katalon-rec_elementInfoDiv&quot;)</value>
-      <webElementGuid>5fb85538-763d-4728-b3ee-9bb022fa1b14</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/OR_Incredible Connection/Airbnb/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/iframe_concat(Check the box to verify that _39fc97</value>
-      <webElementGuid>1eb070ec-b3f4-40db-8776-92772666e095</webElementGuid>
+      <value>id(&quot;simple-header-profile-menu&quot;)/div[1]/a[@class=&quot;c1iyjvyv cxgxr36 dir dir-ltr&quot;]/div[@class=&quot;ld7h8km dir dir-ltr&quot;]</value>
+      <webElementGuid>37b0638a-8a90-4d09-a9cd-f2b4d9d583c3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//div[@id='katalon-rec_elementInfoDiv']</value>
-      <webElementGuid>c9b979d4-22e7-4a64-9423-8010ec2d5865</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='katalon']/div</value>
-      <webElementGuid>f4a0ab5a-1f96-4f95-9121-41b647301bad</webElementGuid>
+      <value>//div[@id='simple-header-profile-menu']/div/a[2]/div</value>
+      <webElementGuid>f70a263d-609d-492b-a4b7-9af0047b7b9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms'])[1]/following::div[2]</value>
-      <webElementGuid>15fc9c4c-8ce5-4da0-b82a-cc46073c5f6f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/following::div[1]</value>
+      <webElementGuid>d6804132-088c-438b-b2cd-33d5a0cdff68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[1]/following::div[2]</value>
-      <webElementGuid>8e94ba8d-9e41-4b3c-96d6-249c6ccd54da</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airbnb your home'])[1]/following::div[11]</value>
+      <webElementGuid>5b725d13-fea8-469d-9fc4-e23dfd2cc19a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='id(&quot;katalon-rec_elementInfoDiv&quot;)']/parent::*</value>
-      <webElementGuid>cd4288af-b84b-4e6e-91c0-bdedbf074c9b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airbnb your home'])[2]/preceding::div[2]</value>
+      <webElementGuid>83856158-11c7-4f44-9591-6e734591e589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Host an experience'])[1]/preceding::div[3]</value>
+      <webElementGuid>21e418cd-71b2-4378-bce8-b212d688e16c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
+      <webElementGuid>aaf854cb-3b4f-4b2f-b49f-9212ee80f770</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div</value>
-      <webElementGuid>d4883191-060d-4720-aa18-74ec164c6ea7</webElementGuid>
+      <value>//a[2]/div</value>
+      <webElementGuid>055a7934-e926-441c-9512-163467302a7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[@id = 'katalon-rec_elementInfoDiv' and (text() = 'id(&quot;katalon-rec_elementInfoDiv&quot;)' or . = 'id(&quot;katalon-rec_elementInfoDiv&quot;)')]</value>
-      <webElementGuid>e8e9ba8c-55f4-4539-b051-e524e2b09668</webElementGuid>
+      <value>//div[(text() = 'Log in' or . = 'Log in')]</value>
+      <webElementGuid>c2cd53e6-c7e2-46b8-8d22-9200d3a4a175</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

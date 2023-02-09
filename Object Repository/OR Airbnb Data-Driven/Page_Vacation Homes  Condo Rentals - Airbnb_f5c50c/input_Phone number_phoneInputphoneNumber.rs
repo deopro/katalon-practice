@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Phone number_phoneInputphoneNumber</name>
    <tag></tag>
-   <elementGuidId>e697d6ae-1c69-4b55-9aca-5b24753dc9e0</elementGuidId>
+   <elementGuidId>0cfec853-8c3d-4b1f-8b7e-56331a29e37c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6827ab74-b2cc-42e0-a24d-caaf56e1c2f3</webElementGuid>
+      <webElementGuid>647a335a-579a-44bc-b9a9-2d40463fb141</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>phoneInputphoneNumber</value>
-      <webElementGuid>2242868f-fdbb-4dda-a013-972073d1b3b0</webElementGuid>
+      <webElementGuid>de89acf1-6c5e-428d-a14c-5872478c67e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>61585e2b-c936-4956-9a5e-2eddc4bd07ad</webElementGuid>
+      <webElementGuid>9fa0d35d-7ab3-4ea2-8cd2-4c288e9ad526</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-testid</name>
       <type>Main</type>
       <value>login-signup-phonenumber</value>
-      <webElementGuid>5afe7829-8bd3-4018-a8d2-d8bb9e930f78</webElementGuid>
+      <webElementGuid>4275da5f-96c5-4363-8f0e-fd2ed21acb39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>_1udbwkg focus-visible</value>
-      <webElementGuid>b1ca0671-7531-4853-a63f-d25fdb717316</webElementGuid>
+      <webElementGuid>8641e30f-5a03-41bf-a6f1-7bdb45b160c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>phoneInputphoneNumber</value>
-      <webElementGuid>eb6cd1ec-1f04-41fc-b80f-fcbebcf15d78</webElementGuid>
+      <webElementGuid>1a33170e-672a-44d2-a9ad-a25d31f37841</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>tel-national</value>
-      <webElementGuid>0063886c-69cb-45fc-aea7-365359019cb2</webElementGuid>
+      <webElementGuid>86019ac3-2e88-499c-9d21-cf7adad76b18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>inputmode</name>
       <type>Main</type>
       <value>tel</value>
-      <webElementGuid>3098fbb1-9d2a-424c-88e3-70fcf19b80d8</webElementGuid>
+      <webElementGuid>f3bf83e8-05c8-4e8f-b465-1c8721ea4228</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>type</name>
       <type>Main</type>
       <value>tel</value>
-      <webElementGuid>5f0ad02c-0f79-4e22-a4cd-faa568cdf57a</webElementGuid>
+      <webElementGuid>03b78dad-b973-45c2-a29e-b3ff063a3c5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>phone-number-help-text-phoneNumber airlock-inline-container</value>
-      <webElementGuid>6cdc6a52-7437-4e3b-9645-7f3986f36043</webElementGuid>
+      <webElementGuid>3799c7f9-e1be-478e-8189-b2f97b1131c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;phoneInputphoneNumber&quot;)</value>
-      <webElementGuid>21d87433-6d1d-453c-a004-0e217603efbd</webElementGuid>
+      <webElementGuid>106b366c-56e4-4e31-92c6-e73eb3c9b6a2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='phoneInputphoneNumber']</value>
-      <webElementGuid>7ea93a23-088c-4667-9ae4-8107547f2361</webElementGuid>
+      <webElementGuid>20d90cb8-017f-4afc-92d6-cea0fb73e4eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
-      <webElementGuid>e3a14cf0-c6b9-4183-9777-e1052dc06d5d</webElementGuid>
+      <webElementGuid>8b114af8-8639-4363-ad74-f562cfc2e916</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'phoneInputphoneNumber' and @id = 'phoneInputphoneNumber' and @type = 'tel']</value>
-      <webElementGuid>301769e7-8526-4d73-ad02-00f7893bb973</webElementGuid>
+      <webElementGuid>db24da4d-555c-4b57-ad56-6f00828075fa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
